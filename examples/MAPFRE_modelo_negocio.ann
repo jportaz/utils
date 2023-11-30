@@ -1,0 +1,222 @@
+T0	EST 0 17	Modelo de negocio
+T1	EST 48 65	Modelo de negocio
+T5	EST 364 381	modelo de gestión
+T6	CONTAFIN 461 481	crecimiento rentable
+T8	CONTAFIN 666 679	aseguramiento
+T10	CONTAFIN 806 816	patrimonio
+T13	CONTAFIN 930 940	Jubilación
+T14	CONTAFIN 990 1003	emprendedores
+T18	EST 1156 1177	actividad profesional
+T19	CONTAFIN 1217 1238	responsabilidad civil
+T20	CONTAFIN 1241 1251	patrimonio
+T23	CONTAFIN 1363 1373	jubilación
+T26	EST 1487 1508	grandes corporaciones
+T31	EST 1667 1684	modelo de gestión
+T35	CONTAFIN 1741 1762	Responsabilidad Civil
+T36	CONTAFIN 1765 1775	Patrimonio
+T37	EST 1837 1847	Mercancías
+T38	CONTAFIN 1885 1892	Crédito
+T40	CONTAFIN 1944 1954	Jubilación
+T44	CONTAFIN 2039 2060	actividad aseguradora
+T53	CONTAFIN 2576 2588	bancaseguros
+T54	CONTAFIN 2608 2629	entidades financieras
+T59	EST 2766 2783	grupos de interés
+T61	CONTAFIN 2837 2851	distribuidores
+T62	CONTAFIN 2853 2864	proveedores
+T63	GC 2866 2877	accionistas
+T66	EST 3151 3167	plan estratégico
+T67	EST 3237 3256	unidades de negocio
+T69	EST 3294 3310	plan estratégico
+T75	EST 3586 3600	digitalización
+T77	EST 3680 3700	pilares estratégicos
+T83	EST 3955 3971	plan estratégico
+T87	CONTAFIN 4334 4350	cuota de mercado
+T88	EST 4386 4403	modelo de negocio
+T93	CONTAFIN 4643 4661	gestión de activos
+T95	EST 4741 4752	fabricantes
+T97	EST 4804 4824	comercio electrónico
+T98	EST 4858 4878	Modelo de Innovación
+T99	EST 4927 4946	intraemprendimiento
+T100	EST 5004 5026	Transformación digital
+T102	CONTAFIN 5307 5313	primas
+T105	CONTAFIN 5478 5489	proveedores
+T108	EST 5709 5726	modelo de negocio
+T114	CONTAFIN 6166 6177	proveedores
+T115	EST 6250 6267	marketing digital
+T120	EST 6403 6419	Plan Estratégico
+T121	EST 6548 6567	Gestión del Talento
+T122	CONTAFIN 6938 6949	retribución
+T123	EST 7029 7046	inclusión laboral
+T124	RSC 7083 7105	Plan de Sostenibilidad
+T126	CONTAFIN 7267 7277	consolidar
+T127	CONTAFIN 7280 7292	rentabilizar
+T129	EST 7505 7521	Plan Estratégico
+T131	CONTAFIN 7603 7615	RENTABILIDAD
+T132	EST 7633 7653	pilares estratégicos
+T136	EST 7926 7951	Evolución de los negocios
+T137	CONTAFIN 7960 7977	Hechos relevantes
+T138	CONTAFIN 8024 8033	ejercicio
+T139	EST 8089 8108	alianza estratégica
+T141	CONTAFIN 8192 8199	titular
+T147	CONTAFIN 8500 8511	adquisición
+T148	RSC 8533 8547	capital social
+T154	CONTAFIN 8762 8778	títulos de deuda
+T156	CONTAFIN 8816 8828	amortización
+T158	CONTAFIN 8889 8909	tipo de interés fijo
+T160	CONTAFIN 9003 9021	fondo de inversión
+T161	CONTAFIN 9051 9059	invierte
+T162	CONTAFIN 9063 9071	acciones
+T163	CONTAFIN 9074 9095	títulos de renta fija
+T167	RSC 9181 9184	ASG
+T168	CONTAFIN 9209 9225	línea de crédito
+T169	CONTAFIN 9268 9279	vencimiento
+T172	CONTAFIN 9482 9490	inversor
+T173	CONTAFIN 9534 9557	fondo de capital riesgo
+T176	CONTAFIN 9693 9701	invertir
+T177	CONTAFIN 9760 9790	cartera de activos financieros
+T181	EST 10131 10147	riesgos globales
+T187	CONTAFIN 10373 10378	venta
+T190	CONTAFIN 10469 10483	desinversiones
+T192	CONTAFIN 10508 10528	crecimiento rentable
+T193	EST 10556 10575	alianza estratégica
+T196	CONTAFIN 10729 10734	venta
+T198	EST 10835 10845	patrocinio
+T200	RSC 11100 11116	cambio climático
+T203	CONTAFIN 11280 11289	ejercicio
+T205	CONTAFIN 11330 11339	ejercicio
+T206	CONTAFIN 11348 11370	entorno macroeconómico
+T207	CONTAFIN 11379 11397	factores de riesgo
+T209	CONTAFIN 11480 11506	proyecciones de resultados
+T210	EST 11514 11530	áreas de negocio
+T212	CONTAFIN 11564 11576	proyecciones
+T213	CONTAFIN 11592 11601	deterioro
+T214	CONTAFIN 11646 11664	fondos de comercio
+T219	CONTAFIN 11788 11797	deterioro
+T220	CONTAFIN 11809 11827	fondos de comercio
+T221	CONTAFIN 11857 11866	tesorería
+T224	CONTAFIN 11955 11962	capital
+T225	CONTAFIN 11980 11987	ratings
+T226	CONTAFIN 12010 12028	nivel de solvencia
+T228	EST 12045 12053	filiales
+T229	CONTAFIN 12117 12127	dividendos
+T230	CONTAFIN 12136 12145	ejercicio
+T234	CONTAFIN 12432 12443	variaciones
+T235	CONTAFIN 12488 12494	primas
+T236	EST 12531 12550	unidades de negocio
+T237	CONTAFIN 12606 12613	emisión
+T240	CONTAFIN 12685 12692	emisión
+T242	CONTAFIN 12735 12751	tercer trimestre
+T243	CONTAFIN 12848 12860	depreciación
+T244	CONTAFIN 12880 12887	monedas
+T247	CONTAFIN 12999 13016	resultado técnico
+T250	CONTAFIN 13070 13093	al cierre del ejercicio
+T251	CONTAFIN 13122 13147	resultados no recurrentes
+T252	CONTAFIN 13152 13171	resultado atribuido
+T253	CONTAFIN 13245 13254	beneficio
+T255	CONTAFIN 13334 13355	gastos de adquisición
+T258	CONTAFIN 13406 13420	siniestralidad
+T259	CONTAFIN 13488 13504	tipos de interés
+T260	CONTAFIN 13566 13586	ingresos financieros
+T263	CONTAFIN 13649 13669	provisiones técnicas
+T266	CONTAFIN 13774 13783	ejercicio
+T268	CONTAFIN 13804 13809	venta
+T269	CONTAFIN 13816 13824	inmueble
+T275	EST 14084 14101	líneas de negocio
+T276	CONTAFIN 14113 14130	Seguros Generales
+T286	CONTAFIN 14483 14490	tarifas
+T287	EST 14513 14532	unidades de negocio
+T288	EST 14626 14636	siniestros
+T289	EST 14717 14731	siniestralidad
+T290	CONTAFIN 14785 14794	ejercicio
+T291	EST 14806 14813	holding
+T293	CONTAFIN 14922 14931	deterioro
+T294	CONTAFIN 14943 14961	fondos de comercio
+T295	CONTAFIN 14964 14981	Cuotas de mercado
+T296	CONTAFIN 15072 15088	cuota de mercado
+T297	CONTAFIN 15150 15159	ejercicio
+T299	EST 15224 15243	alianza estratégica
+T301	CONTAFIN 15327 15334	titular
+T304	CONTAFIN 15570 15583	participación
+T306	CONTAFIN 15736 15761	participación accionarial
+T308	CONTAFIN 15803 15813	aportación
+T309	CONTAFIN 15818 15827	beneficio
+T311	CONTAFIN 15940 15952	consolidarse
+T316	CONTAFIN 16252 16265	volumen total
+T317	CONTAFIN 16269 16275	primas
+T320	CONTAFIN 16424 16431	pólizas
+T322	CONTAFIN 16488 16509	responsabilidad civil
+T326	CONTAFIN 16698 16711	aseguramiento
+T332	CONTAFIN 17099 17111	rentabilidad
+T333	CONTAFIN 17114 17137	Al cierre del ejercicio
+T335	CONTAFIN 17235 17254	organismo regulador
+T343	CONTAFIN 17597 17606	cobertura
+T2	EST 571 589	enfoque multicanal
+T15	CONTAFIN 1384 1393	inversión
+T16	CONTAFIN 3280 3289	ejercicio
+T24	EST 4880 4883	MOi
+T25	EST 5206 5229	Plan de Negocio Digital
+T28	RSC 9132 9179	criterios ambientales, sociales y de gobernanza
+T30	CONTAFIN 10259 10280	eficiencia financiera
+T34	RSC 11156 11207	Task Force on Climate-related Financial Disclosures
+T41	RSC 11209 11213	TFCD
+T45	CONTAFIN 11913 11933	fortaleza financiera
+T46	CONTAFIN 13282 13296	canal bancario
+T3	CONTAFIN 213 266	productos aseguradores, reaseguradores y de servicios
+T7	CONTAFIN 1999 2019	oferta reaseguradora
+T9	EST 5317 5332	negocio digital
+T33	EST 7698 7725	gestión técnica y operativa
+T47	RSC 9308 9327	préstamo sostenible
+T49	CONTAFIN 15250 15268	negocio de seguros
+T57	CONTAFIN 16906 16938	riesgo asegurador o reasegurador
+T60	CONTAFIN 17462 17470	ingresos
+T4	CONTAFIN 919 928	inversión
+T27	CONTAFIN 9621 9656	acuerdo de coinversión inmobiliaria
+T32	CONTAFIN 10714 10726	distribución
+T42	CONTAFIN 13865 13889	plusvalía neta atribuida
+T43	CONTAFIN 14864 14887	dotación extraordinaria
+T48	CONTAFIN 17149 17190	operación de reestructuración empresarial
+T50	CONTAFIN 11672 11701	operaciones de seguro directo
+T17	CONTAFIN 818 835	seguros de hogar,
+T29	CONTAFIN 836 858	seguros de automóviles
+T11	CONTAFIN 860 901	seguros de responsabilidad civil familiar
+T39	CONTAFIN 1894 1921	Seguros Colectivos de Salud
+T51	CONTAFIN 5541 5560	Seguro de Automóvil
+T52	EST 5760 5787	gestión técnica y operativa
+T12	EST 6300 6318	modelos operativos
+T55	RSC 6322 6329	emisión
+T56	EST 6331 6341	siniestros
+T58	CONTAFIN 6344 6350	fraude
+T64	EST 8460 8474	canal agencial
+T65	CONTAFIN 9357 9368	aseguradora
+T68	CONTAFIN 10314 10330	grupo asegurador
+T70	CONTAFIN 10651 10669	filial aseguradora
+T74	CONTAFIN 10748 10755	seguros
+T76	CONTAFIN 11435 11453	negocio asegurador
+T78	CONTAFIN 10053 10070	sector asegurador
+T79	CONTAFIN 12700 12728	póliza de colectivos de vida
+T80	CONTAFIN 12288 12310	impacto neto atribuido
+T81	CONTAFIN 12378 12400	impacto neto atribuido
+T82	EST 13436 13450	canal agencial
+T84	CONTAFIN 14361 14407	seguro de Responsabilidad Civil de Automóviles
+T85	EST 15429 15443	canal agencial
+T86	CONTAFIN 15525 15539	canal bancario
+T89	CONTAFIN 15656 15670	canal bancario
+T90	CONTAFIN 8314 8328	canal bancario
+T91	CONTAFIN 15635 15651	seguros de hogar
+T92	CONTAFIN 16578 16592	primas totales
+T94	CONTAFIN 17567 17581	primas totales
+T96	CONTAFIN 942 949	Decesos
+T21	CONTAFIN 1318 1336	riesgos personales
+T101	EST 1447 1475	empresas pequeñas y medianas
+T103	CONTAFIN 1875 1882	Caución
+T71	CONTAFIN 3455 3472	balance al cierre
+T22	EST 6041 6065	modelo de contact-center
+T72	EST 6201 6233	modelos predictivos y analíticos
+T73	EST 6270 6283	tarificadores
+T104	EST 6640 6666	Homologación de Plantillas
+T106	EST 8284 8298	canal agencial
+T107	EST 9831 9854	aceleradora de startups
+T109	EST 9938 9970	plataforma de innovación abierta
+T110	CONTAFIN 13022 13048	ratio combinado de No Vida
+T111	CONTAFIN 14061 14076	ratio combinado
+T112	CONTAFIN 14199 14220	impacto negativo neto

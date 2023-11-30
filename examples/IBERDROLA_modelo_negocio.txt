@@ -1,0 +1,437 @@
+2. Modelo de negocio y estrategia
+
+2.1. El futuro de la energía
+
+Expectativas y necesidades sociales
+
+El progreso social conlleva nuevas expectativas y necesidades que afectan al sector de la energía.
+
+Las grandes tendencias asociadas son cuatro: el aumento de la demanda de energía sostenido en el tiempo; la exigencia de que la energía, y la economía en su conjunto se descarbonicen; una mayor atención a la eficiencia de las actividades de suministro; y la mayor conectividad que influye en las relaciones con todos los grupos de interés, especialmente los clientes.
+
+Más energía y mayor electrificación
+
+El proceso de descarbonización de la economía ha comenzado por el sector eléctrico, y se completará mediante una fase de electrificación de la economía en su conjunto, en especial la industria y el transporte.
+
+La Hoja de ruta de la Unión Europea prevé que, en 2050, la demanda de electricidad podría duplicar su actual cuota en la demanda final de energía hasta llegar al 36-39 %, lo que contribuiría a disminuir las emisiones de carbono provocadas por los sistemas de calefacción, la industria y por el sector del transporte.
+
+El escenario principal del World Energy Outlook 2018, también prevé que la electricidad desempeñe un papel más importante en el sistema energético mundial, superando el crecimiento de todas las demás fuentes, hasta llegar a casi un cuarto del consumo final total de energía para 2040.
+
+Se espera que las políticas de promoción de la movilidad sostenible como, por ejemplo, el paquete de movilidad limpia de la Comisión Europea, harán que el número de vehículos eléctricos aumente desde los actuales 3 millones hasta alrededor de 300 millones en 2040, lo que representará unos 720 TWh de consumo anual. Además, las políticas para reducir las emisiones debidas a la calefacción persiguen la reducción en el uso de combustibles fósiles, y supondrán un crecimiento de la demanda de electricidad para calor en los edificios de aproximadamente un 45 % para 2040. En la industria, las bombas de calor satisfarán aproximadamente el 3 % (unos 240 TWh) de la demanda de calor adicional a baja temperatura hasta 2040.
+
+En las economías en desarrollo a estos factores habrá que añadir el aumento de la demanda asociado a las personas que en la actualidad no disponen de acceso al servicio eléctrico, que hoy en día son casi mil millones en todo el mundo.
+
+Descarbonización: lucha contra el cambio climático
+
+La lucha contra el cambio climático es uno de los motores de la estrategia de Iberdrola, que desde hace dos décadas está apostando por un modelo energético sostenible, seguro y competitivo. Alcanzar un modelo energético descarbonizado es viable actualmente. El grupo está en una posición óptima para aprovechar las oportunidades que esta transición energética ofrece gracias a su liderazgo en energías renovables, redes inteligentes, almacenamiento y digitalización. El Consejo de Administración formalizó el compromiso de Iberdrola en materia de descarbonización en la Política contra el cambio climático, que aborda las acciones de mitigación y adaptación, la participación activa de la compañía en la agenda climática global y la promoción de una cultura social orientada a fomentar la sensibilización e implicación de todos sus Grupos de interés en este ámbito.
+
+Objetivos de Iberdrola
+
+• Reducir la intensidad de emisiones de CO2 en el año 2030 un 50 % con respecto a 2007 y ser neutra en carbono en 2050. Objetivos reconocidos como Science Based Targets (SBTi).
+
+• Apoyar los procesos de negociación internacional de cambio climático, la participación del sector privado en la agenda global, la creación de alianzas y la sensibilización climática.
+
+Alianzas y acciones
+
+La compañía ejerce su rol como agente transformador a través de su involucración en distintas plataformas, coaliciones, y organizaciones mundiales, tales como: Comisión Europea, UN
+
+Global Compact, We Mean Business, World Business Council for Sustainable Development y Corporate Leaders Group (CLG). También ha apoyado formalmente diversas iniciativas, como la declaración promovida por el CLG sobre emisiones netas nulas en 2050. Por todo ello, Iberdrola ha sido reconocida como UN Global Compact Lead por su contribución a la sostenibilidad global.
+
+Entre los hitos de 2018, pueden destacarse los siguientes:
+
+• Participación activa en los principales procesos impulsados formalmente por Naciones Unidas y otros diferentes organismos internacionales. Destacan los celebrados con motivo de la Cumbre Climática de Katowice (COP24), la Cumbre Global de Acción Climática de California y la Asamblea General de las Naciones Unidas. Además, Iberdrola ha sido una de las pocas empresas participantes en todas las fases de alto nivel del Diálogo de Talanoa.
+
+• Progreso en su compromiso de implantar en sus informes públicos para 2020 las recomendaciones del Task Force on Climate-related Financial Disclosure (TCFD).
+
+• Iberdrola apoya el objetivo de emisiones netas nulas para 2050 de la estrategia climática de la Unión Europea, convencida de la viabilidad y las oportunidades de este escenario y del papel central del sector eléctrico.
+
+Eficiencia
+
+El uso creciente de fuentes renovables de energía está siendo impulsado por una rápida evolución de la tecnología que está reduciendo los costes de producción. Esta tendencia hace compatible un modelo energético sostenible con una positiva evolución del coste para el usuario final. Así, se prevé que la energía renovable aumente su peso en la producción de electricidad hasta alcanzar el 85 % en 2050. Destacan especialmente en ese crecimiento las tecnologías eólica y fotovoltaica.
+
+Conectividad y clientes
+
+Los estilos de vida urbano-tecnológicos requieren el establecimiento de canales online, inmediatos y sencillos. Esta mayor conectividad permite a su vez el desarrollo de productos y servicios más personalizados y eficientes.
+
+La mayor presencia de la generación distribuida, y el crecimiento del vehículo eléctrico, junto con la digitalización de los canales de relación, propiciarán un papel más activo de los clientes.
+
+2.2 Modelo de negocio
+
+Posicionamiento sectorial
+
+La estrategia que Iberdrola ha ejecutado desde principios de los años 2000, que apostó por la descarbonización y las energías renovables, apoyada en la fuerte orientación hacia la innovación de todos los negocios del grupo, ha hecho posible una rápida adopción de nuevas tecnologías de generación, así como la automatización y control remoto de las redes. Como consecuencia, hoy Iberdrola está posicionada como líder en energías renovables y redes inteligentes, actividades que constituyen la columna vertebral de la descarbonización del sector eléctrico.
+
+Iberdrola da respuesta a las expectativas y necesidades descritas en la página anterior. El proceso de electrificación se apoya desde todos los negocios del grupo y la descarbonización se promueve a través de la inversión en capacidad instalada libre de emisiones, que ya alcanza el 68,2% del total.
+
+En 2018 destacan la conclusión del proyecto Star de digitalización de redes; la inauguración del parque eólico marino Wikinger; el impulso a la movilidad eléctrica a través de su plan Smart Mobility, en el marco del cual Iberdrola instalará 25.000 puntos de recarga de vehículo eléctrico en España hasta 2021; y el desarrollo de soluciones para clientes basados en la conectividad.
+
+Posicionamiento económico-financiero
+
+Junto con el posicionamiento industrial y tecnológico, los aspectos económico-financieros son parte esencial del modelo de negocio de Iberdrola. La compañía desarrolla una estrategia que persigue equilibrar el crecimiento, la solidez financiera y un dividendo sostenible. A tal fin:
+
+• La inversión se concentra en negocios regulados o contratados a largo plazo, que proporcionan flujos de caja conocidos y recurrentes.
+
+• La selección de los países tiene en cuenta la calidad de sus instituciones y especialmente el entorno regulatorio que aplica al sector.
+
+• El compromiso con el grado de solvencia del grupo es público e influye de forma determinante en la planificación a largo plazo y en el nivel de apalancamiento del grupo.
+
+• La política de dividendos se orienta hacia un dividendo seguro y creciente en línea con el aumento de los resultados de la compañía.
+
+Teniendo en cuenta el posicionamiento de la compañía, el modelo de negocio de Iberdrola se caracteriza por:
+
+Foco en negocios regulados
+
+Apuesta por las energías limpias y competitivas
+
+Eficiencia operativa
+
+Más del 86 % del EBITDA 2018 proviene de negocios regulados o contratados a largo plazo.
+
+• Generación y producción de electricidad mayoritariamente libre de emisiones.
+
+• Importante cartera de proyectos de generación eólica y solar.
+
+• Objetivos públicos y ambiciosos de reducción de emisiones.
+
+• Una cultura de empresa muy orientada a la innovación y digitalización ha permitido que nuestra compañía sea un 40 % más eficiente que la media de los principales competidores.
+
+Diversificación internacional
+
+Fortaleza y solidez financiera del grupo
+
+Equipo humano global, comprometido y cualificado
+
+Los resultados obtenidos reflejan la diversificación del grupo (EBITDA 2018 por países): 38 % en España.
+
+19 % en el Reino Unido.
+
+21 % en los Estados Unidos.
+
+13 % en Brasil.
+
+8 % en México.
+
+• El crecimiento del EBITDA y del Flujo de caja operativo permiten mantener fuertes niveles de ratios de solvencia, en el marco de un fuerte crecimiento orgánico.
+
+• Posición de liquidez que permite cubrir las necesidades financieras durante más de 18 meses incluso en un escenario de riesgo.
+
+• Empleo estable y de calidad, con un alto nivel de formación.
+
+• La salud y la seguridad como prioridades: Programa "Cero accidentes".
+
+• Las empresas del grupo han sido reconocidas: en España, por su reputación (Merco), y en Brasil, como mejor empresa para trabajar de Latinoamérica (Great Place to Work).
+
+"Las tecnologías para lograr una profunda transformación, las energías renovables, ya están disponibles y son competitivas."
+
+Ignacio Galán, en el World Economic Forum 2019
+
+2.3. Cadena de valor
+
+Generación de electricidad
+
+Construcción, operación y mantenimiento de centrales de generación; y compraventa de enería en los mercados mayoristas.
+
+Centrales de producción
+
+Transporte y distribución de energía
+
+Construcción, operación y mantenimiento de líneas eléctricas, subestaciones, centros de transformación y otras infraestructuras, para trasladar la energía eléctrica desde los centros de producción al usuario final.
+
+Comercialización de energía
+
+Suministro al usuario final de energía y productos y servicios complementarios.
+
+2.4 Iberdrola, una empresa diferente
+
+Los elementos diferenciales de la compañía
+
+• El Propósito como razón de ser y contribución social, y los Valores como cultura del grupo Iberdrola, definidos por el Consejo de Administración.
+
+• Un marco de confianza que garantiza la sostenibilidad del modelo de negocio: – Sistema de gobierno corporativo conforme a las mejores prácticas internacionales.
+
+– Ética corporativa, asumida por los órganos de dirección y por el conjunto de la organización.
+
+– Políticas de desarrollo sostenible, que dan respuesta a las expectativas de los Grupos de interés.
+
+– Sistema avanzado de control de riesgos para mantener un óptimo equilibrio "riesgo/ oportunidad", aprovechando oportunidades y mitigando riesgos.
+
+• Una estrategia orientada a la consecución de los objetivos del grupo.
+
+• Una gestión responsable de los activos tangibles e intangibles de la compañía.
+
+• Una organización estructurada en tres negocios globales (Negocio de Redes, Negocio de Generación y Clientes, y Negocio de Renovables) y una Corporación como órgano supervisor del grupo.
+
+• Un suministro de energía saludable y accesible.
+
+Consciente de los cambios sociales que se están produciendo y de los grandes retos consecuencia de la transición energética, Iberdrola ha definido su
+
+Propósito Corporativo, centrado en el bienestar de las personas y la preservación del planeta: "Continuar construyendo, cada día y en colaboración, un modelo energético más eléctrico, saludable y accesible."
+
+Este Propósito refleja la estrategia que la compañía ha venido ejecutando desde hace años, y su compromiso para continuar luchando por:
+
+• Una transición energética real y global que, basada en la descarbonización y electrificación del sector energético y de la economía en su conjunto, contribuya a la lucha contra el cambio climático y genere nuevas oportunidades de desarrollo económico, social y ambiental.
+
+• Un modelo energético más eléctrico, que abandone el uso de los combustibles fósiles y generalice el uso de las fuentes de energías renovables, el almacenamiento eficiente de energía, las redes inteligentes y la transformación digital.
+
+• Un modelo energético más saludable para las personas, cuya salud y bienestar a corto plazo depende de la calidad ambiental de su entorno.
+
+• Un modelo energético más accesible para todos, que favorezca la inclusividad, la igualdad, la equidad y el desarrollo social.
+
+• Un modelo energético construido en colaboración, con todos los agentes implicados y toda la sociedad. Para alcanzar este Propósito, Iberdrola ha evolucionado sus valores corporativos a los siguientes conceptos:
+
+• Energía sostenible: porque buscamos ser un modelo de inspiración creando valor económico, social y ambiental en todo su entorno y pensando en el futuro.
+
+• Fuerza integradora: porque tenemos una gran fuerza y, por tanto, una gran responsabilidad. Por eso trabajamos sumando talentos, por un propósito que es por todos y para todos.
+
+• Impulso dinamizador: porque hacemos realidad pequeños y grandes cambios que hacen más fácil la vida a las personas, siendo eficientes y autoexigentes y buscando siempre la mejora continua.
+
+Contribución de Iberdrola a los Objetivos de Desarrollo Sostenible (ODS)
+
+Iberdrola se ha comprometido con los ODS definidos por Naciones Unidas para el período 2015-2030. Son 17 Objetivos globales dirigidos a transformar nuestro mundo, poniendo fin a la pobreza, luchando contra la desigualdad y la injusticia, y haciendo frente al cambio climático.
+
+Iberdrola ha integrado los ODS en su estrategia empresarial y sus operaciones, y de acuerdo con la actividad que desempeña, el grupo Iberdrola concentra su esfuerzo en los siguientes objetivos:
+
+• Programa Electricidad para todos:
+
+• Objetivo de 16.000.000 de beneficiarios en 2030.
+
+• A cierre de 2018 se habían alcanzado 5,4 millones.
+
+• Un líder mundial renovable: 29.177 MW en 2018.
+
+• Eficiencia energética: 60 millones de toneladas de emisiones de CO2 evitadas en los últimos tres años.
+
+• Iberdrola se ha marcado como objetivos medioambientales:
+
+• Reducir su intensidad de emisiones de CO2 respecto al 2007 un 50 % para el año 2030
+
+• Ser neutros en carbono en 2050.
+
+La compañía dispone de un Comité Asesor de ODS, que revisa las acciones llevadas a cabo y analiza su alineamiento con los mismos, además de proponer y promover nuevos retos y acciones que ayuden al logro de las metas fijadas.
+
+Iberdrola cree firmemente en el papel innovador del sector privado, y apuesta por la consecución de los ODS a través de resultados empresariales. De esta forma, las contribuciones de la empresa mediante su dividendo social generan valor compartido para todos sus Grupos de interés:
+
+• Un líder mundial renovable, con 29.177 MW instalados.
+
+• Un 68,2 % del total de la capacidad instalada no produce emisiones de CO2.
+
+• Aprobación de objetivos de reducción de emisiones alcances 1, 2 y 3 por Science Based Target Initiative.
+
+• Pioneros en adoptar las recomendaciones del Task Force for Climate Change Risks Financial Disclosure (TCFD).
+
+• Impulsa el desarrollo de las redes inteligentes. Ha desplegado más de 10 millones de contadores inteligentes en el mundo.
+
+• Invierte en movilidad sostenible, con el objetivo de instalar 25.000 puntos de recarga en España para 2021.
+
+• Genera anualmente más de 32.000M€ de Producto Interior Bruto (PIB), en los países donde opera.
+
+• Contribuye con casi 7.600M€ en inversiones anuales a la formación de capital de la economía mundial.
+
+• Invierte más de 1.600M€ en generación renovable en el año 2018, lo que ha supuesto reducir sus emisiones específicas hasta 163 gr / kWh en 2018. En la misma línea, en España se ha disminuido el valor hasta los 82 / kWh en 2018.
+
+• Crea más de 425.000 empleos en el mundo (empleo directo, indirecto e inducido).
+
+• Casi 2.400M€ en retribuciones a sus empleados.
+
+• Invierte 53,5M€ en proyectos de contribución a la comunidad.
+
+• Realiza más de 7.500M€ en compras a sus proveedores a lo largo del mundo.
+
+• Contribuye fiscalmente con casi 8.000M€ en los países donde realiza su actividad.
+
+Crecimiento equilibrado: Entre 2018 y 2022, 34.000M€ de inversiones, que se orientan a negocios y países con marcos regulatorios estables y predecibles; y el 86 % se dedicará a actividades reguladas o con contratos a largo plazo.
+
+Un crecimiento sostenible de los resultados de la compañía, alcanzando un Beneficio Neto de entre 3.700 y 3.900M€ en el año 2022.
+
+Solidez financiera: Se prevé que el ratio de FFO/Deuda Neta sea superior al 24 % en 2022, lo que permitiría un mayor crecimiento orgánico, compatible con el objetivo de un ratio FFO/Deuda Neta del 22 %.
+
+Dividendo sostenible: La remuneración del accionista crecerá en línea con el incremento de los resultados, manteniendo un pay-out ratio entre el 65 % y el 75 %, con un suelo creciente para el dividendo cada año del plan.
+
+Además, Iberdrola realiza acciones para contribuir al resto de los ODS. Estas actividades se encuentran alineadas con su modelo de Negocio, y responden al firme compromiso de la compañía con el dividendo social, concebido como la creación de valor de forma sostenible para todos los Grupos de interés. De esta forma, las actividades y resultados realizados por la compañía para estos Objetivos se pueden resumir en:
+
+Procedimientos de protección a clientes en situación de vulnerabilidad: cobertura al 100 % de clientes en situación de vulnerabilidad en España. En el Reino Unido, programa Ward Home Discount, y en los Estados Unidos, Operación Fuel.
+
+IX edición del Programa Social Iberdrola 2019 convocado por la Fundación Iberdrola España.
+
+Más de 6.000 kg de alimentos recogidos a través de la Operación Kilo promovida en todos los países.
+
+Actividades de voluntariado para el reparto de alimentos, comedores sociales, etc.
+
+Iberdrola contribuye a reducir los efectos nocivos sobre la salud de los gases de efecto invernadero con su compromiso en la reducción de estos gases.
+
+Por otra parte, la compañía tiene objetivos de reducción de los índices de accidentalidad.
+
+2,2 M€ en el programa de becas y ayudas a la investigación curso 2018-2019.
+
+Formación a nuestros empleados: más de 45 horas de formación por empleado en 2018.
+
+Iberdrola ha sido incluida en el Índice de Igualdad de Género (Gender Equality Index, GEI) de Bloomberg 2019.
+
+Iberdrola apoya el programa Universo Mujer del CSD, impulsando 16 federaciones españolas femeninas. Objetivo: Incremento del número de mujeres en puestos directivos.
+
+Iberdrola es una de las utilities con mejor productividad de agua (ventas/agua utilizada).
+
+Objetivo: mantener la intensidad un 50 % por debajo de la media europea en los próximos 5 años.
+
+Iberdrola está adscrita al CEO Water Mandate de la ONU para fomentar prácticas sostenibles en el uso del agua.
+
+425.000 puestos de trabajo directos, indirectos e inducidos en todo el mundo. Más de 32.000 M€ impacto en el PIB de los países donde realiza su actividad. Iberdrola es el mayor emisor mundial empresarial de bonos verdes, con más de 8.300 M$ de deuda verde viva. Objetivo: continuar apoyando el desarrollo del mercado de financiación verde.
+
+Líderes mundiales en redes inteligentes. Avance de los proyectos Star en España y Smart UK en el Reino Unido. Objetivo: Desarrollo del Programa de innovación y digitalización.
+
+Objetivo: Fomento de la diversidad y la inclusión social de colectivos vulnerables a través del programa de voluntariado corporativo.
+
+En 2018 se pusieron a disposición de los empleados más de 7.000 iniciativas a nivel global.
+
+Iberdrola ha desarrollado un Plan de Movilidad Sostenible con el objetivo final de contribuir a un uso racional de los medios de transporte.
+
+Objetivo: Instalar 25.000 puntos de recarga de vehículo eléctrico en España hasta 2021, dentro de su plan Smart Mobility.
+
+El 90 % de la producción energética en Iberdrola se realiza utilizando fuentes locales de energía.
+
+Iberdrola fue la primera empresa del IBEX 35 que certificó su Junta General de Accionistas como evento sostenible (ISO 20121).
+
+Durante la construcción y operación de los parques eólicos offshore, Iberdrola adopta medidas innovadoras para preservar los ecosistemas marinos circundantes. Apoyo al proyecto DolphinWatch, para la protección de la fauna y conservación de hábitats marinos, con acciones de divulgación y sensibilización.
+
+Iberdrola ha obtenido el primer certificado AENOR de Huella Ambiental Corporativa.
+
+Objetivo: Adaptación de 25.000 apoyos en las líneas de distribución para evitar electrocución de aves en los dos próximos años (proyecto Aleteo).
+
+La compañía ha renovado las certificaciones concedidas UNE-ISO 37001 y UNE19601 sobre sistemas antisoborno, y de compliance.
+
+Además, ha sido elegida, por quinto año consecutivo, una de las compañías más éticas del mundo, según el ranking World's Most Ethical Companies elaborado por el Instituto Ethisphere.
+
+Iberdrola colabora con múltiples empresas, asociaciones, universidades y organismos públicos para la consecución de los ODS.
+
+Iberdrola celebró la I Conferencia Iberoamericana sobre ODS, en colaboración con la Universidad de Salamanca, y la Universidad Politécnica de Madrid.
+
+2.5 Gestión de los capitales
+
+El grupo Iberdrola dispone de valiosos activos para desarrollar su modelo de negocio. La estrategia definida por la compañía transforma estos activos con el fin de crear valor para todos sus Grupos de interés.
+
+Dividendo social como aumento del valor de los capitales
+
+El dividendo social creado por la estrategia y el modelo de negocio de Iberdrola se traduce en un aumento del valor de sus capitales que, a su vez, realimenta el ciclo de creación de valor, interrelacionando así eficazmente las operaciones de los negocios y los capitales de la compañía.
+
+El gráfico siguiente muestra para cada Capital su enfoque estratégico y cuantifica una aspiración o logro de la compañía en ese ámbito.
+
+Este proceso crea valor compartido, tanto para Iberdrola como para sus Grupos de interés, y constituye el vector fundamental para la consecución del propósito de la compañía de ofrecer un suministro de energía cada vez más saludable y accesible.
+
+2.6 Bases estratégicas para el periodo 2018-2022
+
+Condiciones del mercado
+
+La electrificación verde de la economía es la clave para acelerar la transición energética; y es posible gracias al avance de las tecnologías de generación limpia, las redes inteligentes y el almacenamiento energético. Para aprovechar al máximo estas oportunidades de crecimiento global, Iberdrola ha revisado al alza los objetivos de sus Perspectivas 2018-2022.
+
+El contexto político y regulatorio actual ofrecen oportunidades de crecimiento en los principales mercados donde opera el grupo.
+
+Retos y oportunidades
+
+Retos
+
+• Escenario de descarbonización en el sector de la energía. Demanda de energía más limpia y sostenible.
+
+• Gestión de un escenario de mantenimiento de los precios de la energía en el medio plazo.
+
+• Alcanzar cotas adicionales de eficiencia en todos los negocios aplicando innovación y digitalización en las operaciones.
+
+• Gestión regulatoria en todos los negocios, con especial énfasis en los negocios de transporte y distribución, y en el desarrollo del mercado único en Europa.
+
+• Ejecución de un plan de inversiones orientado al crecimiento en negocios de redes regulados, renovables, y generación contratada a largo plazo.
+
+Oportunidades
+
+• Modelo de negocio equilibrado enfocado a actividades reguladas y generación renovable.
+
+• Gran experiencia en desarrollo y construcción de proyectos de redes y generación libre de emisiones: hidroeléctrica, eólica y fotovoltaica.
+
+• Diversificación internacional con presencia en países con un marco regulatorio estable y predecible, y con necesidades de inversión en los sectores eléctrico y de gas.
+
+• Alta calidad de los activos.
+
+• Probada capacidad de gestión, cultura de eficiencia y resultados.
+
+• Cultura de innovación para implantar la digitalización en las relaciones con los clientes, y el desarrollo de nuevos productos y servicios.
+
+Vectores de crecimiento 2018-2022
+
+Inversiones
+
+Estados Unidos
+
+En renovables, el proyecto del parque eólico marino de Vineyard en Massachusetts avanza según lo previsto, con una puesta en marcha estimada entre 2021 y 2022.
+
+En Redes, se ha comenzado la construcción de la línea de transporte New England Clean Energy Connect (NECEC), de 950 M$ con fecha de puesta en marcha en 2022, y que contribuirá a los resultados más allá del periodo de ejecución del plan.
+
+España
+
+Se prevé añadir 3.000 MW de capacidad solar fotovoltaica y eólica terrestre antes de 2022.
+
+México
+
+Se instalarán unos 3,5 GW de capacidad adicional que estará operativa en 2021, lo que supondrá un aumento de la potencia instalada en el país de un 60%.
+
+Reino Unido
+
+El proyecto eólico marino de East Anglia One, con fecha de entrada en operación prevista en 2020, se encuentra en plena fase de construcción. Además, están previstas en un futuro cercano nuevas subastas de eólica marina.
+
+Brasil
+
+La compañía ha obtenido cuatro lotes en la subasta de líneas de transporte de electricidad celebrada en diciembre 2018, adicionales a los otros seis lotes ganados en las subastas de 2017, suponen una magnífica oportunidad de crecimiento orgánico en el país. Adicionalmente, se está realizando la construcción de 15 proyectos eólicos por un total de 472 MW en el estado de Paraiba.
+
+Eficiencia operativa
+
+Iberdrola ha mantenido un foco constante en la excelencia operativa a lo largo de los años. Partiendo de la evolución del pasado ejercicio, de las constantes sinergias y buenas prácticas en todo el grupo, se espera mejorar el objetivo de eficiencias, acumulando a lo largo del periodo más de 1.200 M€.
+
+El plan mantiene el foco en el crecimiento rentable en negocios regulados y en contratos a largo plazo, con una cartera diversificada geográficamente y garantiza el crecimiento más allá de 2022.
+
+Pilares estratégicos
+
+Estos pilares estratégicos apoyan la propuesta de creación de valor para todos los Grupos de interés, y han sido la base del crecimiento durante las dos últimas décadas, haciendo a Iberdrola más eficiente, más sostenible, más internacional, más rentable y, en definitiva, más preparada para continuar respondiendo a estas tendencias, que se están acelerando.
+
+1. Crecimiento equilibrado
+
+Para desarrollar esta estrategia, la compañía llevará a cabo una serie de iniciativas, que se describen a continuación:
+
+• Las políticas de descarbonización y el progreso tecnológico desempeñan un papel importante, ya que impulsarán inversiones significativas en generación renovable, así como el despliegue y refuerzo de las redes cuyo papel será esencial para integrar tanto la generación renovable a gran escala como distribuida, así como para facilitar la adopción del vehículo eléctrico.
+
+• A la luz de estas previsiones, la compañía acelera inversiones, hasta los 34.000M€ en el período 2018-2022, pasando de los 5.300M€ invertidos en 2018 a un promedio de 7.200M€ al año en los años siguientes del plan
+
+• Del total de inversiones, ya están ejecutadas o en construcción unos 30.000M€, y los restantes 4.000M€ se van a destinar a proyectos en estado avanzado.
+
+• El presente plan refuerza el compromiso de inversión en activos regulados o con contratos a largo plazo, alcanzando el 86 %. Las inversiones en Redes alcanzarán los 16.000M€, con el crecimiento enfocado principalmente en los Estados Unidos y Brasil. En Renovables, algo más de 13.000M€ se centrarán principalmente en España, los Estados Unidos y el Reino Unido.
+
+• La diversificación por monedas se mantiene bastante equilibrada en este plan actualizado, con la inversión en dólares representando el 36 %, seguida por un 29 % en euros, un 18 % en Reales y un 17 % en libras.
+
+Se fija un suelo creciente para el dividendo cada año del plan. En consecuencia, el dividendo mínimo será de 0,37 euros por acción para 2020 y de 0,4 euros por acción para 2022.
+
+2. Solidez inanciera
+
+Iberdrola ha acelerado la ejecución del plan 2018-2022, como se puede apreciar en los resultados del ejercicio 2018. Estos resultados reafirman la efectividad de sus pilares estratégicos, posicionando a la compañía un año por delante respecto al Plan. El EBITDA aumentó casi un 28 %, gracias al buen comportamiento operativo de todos los negocios, hasta alcanzar un total de 9.349 M€.
+
+La eficiencia operativa mejoró un 10 % gracias a las medidas implementadas en todos los países.
+
+La evolución de las actividades de los negocios, junto con el control del gasto financiero, han impulsado al Beneficio Neto hasta un máximo histórico de más de 3.000 M€, un 7,5 % más que en 2017, en consonancia con las perspectivas presentadas en febrero de 2018, lo que ha permitido al Consejo de Administración proponer un incremento de un 7,7 % en la remuneración al accionista, manteniendo así el compromiso de aumentar la retribución a los accionistas en línea con los resultados.
+
+El aumento de las inversiones, la optimización del capital y la implementación de mayores medidas de eficiencia conduce a una mejora de las estimaciones para 2022.
+
+Así, el EBITDA superará los 12.000 M€ en 2022, lo que implica un crecimiento del 30 % frente al de 2018.
+
+El 80 % de este EBITDA provendrá de los negocios de Redes y de Renovables, manteniéndose su diversificación por monedas.
+
+Las previsiones de Beneficio Neto para 2022 también se han incrementado, y el objetivo máximo de 3.700 M€ presentado el año pasado es el suelo del nuevo rango, que alcanzará un máximo de 3.900 M€, un aumento del 30 % en comparación con 2018. Mejora de la solidez financiera: Se prevé que el ratio de FFO/Deuda Neta sea superior al 24 % en 2022, lo que permitiría un mayor crecimiento orgánico, compatible con el objetivo de un ratio FFO/Deuda Neta del 22 %..
+
+Optimización de la posición de liquidez (en torno a 12.000 M€ - 14.000 M€, con margen para aumentarlo en caso necesario) a las condiciones actuales de mercado, para mejorar el coste financiero, manteniendo 18 meses de cobertura incluso en escenarios de estrés. Neoenergia tiene su propia política de liquidez que cubre 12 meses de necesidades financieras.
+
+3. Dividendo sostenible
+
+Gracias a la solidez de los resultados obtenidos, y cumpliendo el compromiso de aumentar la retribución a los accionistas en línea con los resultados, el Consejo de Administración propondrá en la Junta General de Accionistas una remuneración al accionista de 0,351 euros por acción, lo que supone un aumento del 7,7 % con cargo al ejercicio 2018.
+
+Esta remuneración continuará aumentando en línea con los resultados. Por ello, se fija un mínimo creciente del dividendo, para cada año del plan. En consecuencia, este mínimo será de 0,37 euros por acción para 2020 y de 0,4 euros por acción para 2022.
+
+Se mantiene el pay-out ratio entre el 65 y el 75 %, y el número de acciones en 6.240 millones mediante los planes de recompra de acciones, para evitar dilución.
+
+2.7 Resultados comparados y reconocimientos
+
+Evolución de Iberdrola
+
+En los últimos 10 años, Iberdrola ha aumentado en un 30 % sus activos; ha incrementado un 40 % sus ingresos, ha aumentado un 40 % su EBITDA, ha mejorado un 10 % su beneficio neto y la remuneración a sus accionistas ha crecido, en un 20 %, mejorando, a su vez, su solidez financiera.

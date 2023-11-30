@@ -1,0 +1,415 @@
+T0	EST 3 20	Modelo de negocio
+T1	RSC 56 63	energía
+T2	RSC 105 120	progreso social
+T3	RSC 192 199	energía
+T6	RSC 275 282	energía
+T7	RSC 330 337	energía
+T8	CONTAFIN 344 352	economía
+T9	CONTAFIN 443 453	suministro
+T10	EST 466 478	conectividad
+T11	EST 523 540	grupos de interés
+T13	RSC 575 582	energía
+T17	CONTAFIN 841 854	Unión Europea
+T19	CONTAFIN 928 933	cuota
+T21	RSC 957 964	energía
+T22	RSC 1026 1046	emisiones de carbono
+T26	RSC 1470 1490	movilidad sostenible
+T28	CONTAFIN 1547 1563	Comisión Europea
+T29	CONTAFIN 1724 1737	consumo anual
+T30	RSC 1778 1787	emisiones
+T36	RSC 2381 2397	Descarbonización
+T37	RSC 2415 2431	cambio climático
+T38	RSC 2452 2468	cambio climático
+T39	RSC 2571 2599	modelo energético sostenible
+T43	RSC 2771 2792	transición energética
+T44	RSC 2826 2845	energías renovables
+T45	EST 2884 2898	digitalización
+T46	GC 2903 2928	Consejo de Administración
+T48	RSC 2980 2996	descarbonización
+T49	RSC 3022 3038	cambio climático
+T54	EST 3265 3282	Grupos de interés
+T55	RSC 3351 3367	emisiones de CO2
+T58	RSC 3556 3572	cambio climático
+T64	CONTAFIN 3869 3885	Comisión Europea
+T66	RSC 3952 3975	Sustainable Development
+T71	RSC 4237 4251	sostenibilidad
+T73	RSC 4399 4414	Naciones Unidas
+T84	CONTAFIN 5020 5033	Unión Europea
+T87	CONTAFIN 5294 5314	costes de producción
+T88	RSC 5350 5378	modelo energético sostenible
+T89	CONTAFIN 5410 5415	coste
+T90	RSC 5460 5477	energía renovable
+T92	EST 5641 5653	Conectividad
+T94	EST 5789 5801	conectividad
+T97	EST 5995 6009	digitalización
+T100	EST 6092 6109	Modelo de negocio
+T101	RSC 6232 6248	descarbonización
+T102	RSC 6255 6274	energías renovables
+T105	RSC 6558 6577	energías renovables
+T106	RSC 6655 6671	descarbonización
+T109	RSC 6863 6879	descarbonización
+T110	CONTAFIN 6907 6916	inversión
+T112	EST 7048 7062	digitalización
+T115	EST 7364 7376	conectividad
+T117	EST 7530 7547	modelo de negocio
+T119	CONTAFIN 7643 7661	solidez financiera
+T120	CONTAFIN 7667 7687	dividendo sostenible
+T121	CONTAFIN 7706 7715	inversión
+T124	CONTAFIN 7797 7811	flujos de caja
+T127	CONTAFIN 7934 7953	entorno regulatorio
+T129	CONTAFIN 8009 8018	solvencia
+T132	CONTAFIN 8114 8137	nivel de apalancamiento
+T134	CONTAFIN 8155 8177	política de dividendos
+T135	CONTAFIN 8198 8207	dividendo
+T141	EST 8343 8360	modelo de negocio
+T143	CONTAFIN 8472 8492	Eficiencia operativa
+T144	CONTAFIN 8511 8517	EBITDA
+T149	EST 8677 8697	cartera de proyectos
+T152	EST 8848 8862	digitalización
+T154	CONTAFIN 9013 9031	solidez financiera
+T158	CONTAFIN 9157 9163	EBITDA
+T160	CONTAFIN 9307 9313	EBITDA
+T161	CONTAFIN 9320 9343	Flujo de caja operativo
+T162	CONTAFIN 9381 9400	ratios de solvencia
+T163	CONTAFIN 9427 9447	crecimiento orgánico
+T164	CONTAFIN 9464 9472	liquidez
+T172	RSC 9951 9970	energías renovables
+T173	EST 10068 10083	Cadena de valor
+T174	CONTAFIN 10183 10194	compraventa
+T175	CONTAFIN 10212 10231	mercados mayoristas
+T178	RSC 10288 10295	energía
+T179	EST 10408 10424	infraestructuras
+T180	RSC 10444 10461	energía eléctrica
+T181	EST 10472 10493	centros de producción
+T182	EST 10513 10529	Comercialización
+T183	RSC 10533 10540	energía
+T184	CONTAFIN 10542 10552	Suministro
+T185	RSC 10573 10580	energía
+T191	RSC 10740 10759	contribución social
+T194	GC 10826 10851	Consejo de Administración
+T195	RSC 10895 10909	sostenibilidad
+T196	EST 10914 10931	modelo de negocio
+T197	GC 10935 10966	Sistema de gobierno corporativo
+T199	GC 11055 11075	órganos de dirección
+T200	RSC 11130 11151	desarrollo sostenible
+T201	EST 11197 11214	Grupos de interés
+T202	EST 11239 11257	control de riesgos
+T205	RSC 11444 11463	gestión responsable
+T214	RSC 11644 11654	Renovables
+T216	CONTAFIN 11714 11724	suministro
+T217	RSC 11728 11735	energía
+T218	RSC 11862 11883	transición energética
+T219	RSC 12062 12079	modelo energético
+T222	RSC 12263 12284	transición energética
+T223	RSC 12317 12333	descarbonización
+T224	CONTAFIN 12382 12390	economía
+T225	RSC 12439 12455	cambio climático
+T226	CONTAFIN 12489 12509	desarrollo económico
+T227	RSC 12520 12529	ambiental
+T228	RSC 12537 12554	modelo energético
+T230	RSC 12656 12675	energías renovables
+T232	EST 12745 12767	transformación digital
+T233	RSC 12775 12792	modelo energético
+T235	RSC 12877 12894	calidad ambiental
+T236	RSC 12916 12933	modelo energético
+T237	RSC 13020 13037	desarrollo social
+T238	RSC 13045 13062	modelo energético
+T243	CONTAFIN 13329 13344	valor económico
+T244	RSC 13355 13364	ambiental
+T247	RSC 13813 13847	Objetivos de Desarrollo Sostenible
+T248	RSC 13849 13852	ODS
+T249	RSC 13892 13895	ODS
+T250	RSC 13910 13925	Naciones Unidas
+T251	RSC 14114 14130	cambio climático
+T253	RSC 14160 14163	ODS
+T257	CONTAFIN 14393 14406	beneficiarios
+T258	CONTAFIN 14419 14427	A cierre
+T259	RSC 14523 14544	Eficiencia energética
+T260	RSC 14574 14590	emisiones de CO2
+T261	RSC 14714 14730	emisiones de CO2
+T264	GC 14835 14848	Comité Asesor
+T265	RSC 14852 14855	ODS
+T268	RSC 15140 15143	ODS
+T272	CONTAFIN 15242 15258	dividendo social
+T273	CONTAFIN 15267 15283	valor compartido
+T274	EST 15299 15316	Grupos de interés
+T275	RSC 15435 15451	emisiones de CO2
+T279	RSC 15666 15670	TCFD
+T281	CONTAFIN 15801 15809	Invierte
+T282	RSC 15813 15833	movilidad sostenible
+T283	CONTAFIN 15949 15972	Producto Interior Bruto
+T284	CONTAFIN 15974 15977	PIB
+T285	CONTAFIN 16041 16060	inversiones anuales
+T286	CONTAFIN 16079 16086	capital
+T288	CONTAFIN 16114 16122	Invierte
+T289	RSC 16141 16161	generación renovable
+T293	CONTAFIN 16444 16457	retribuciones
+T294	CONTAFIN 16478 16486	Invierte
+T296	CONTAFIN 16568 16575	compras
+T297	CONTAFIN 16582 16593	proveedores
+T299	CONTAFIN 16758 16769	inversiones
+T301	EST 16907 16930	contratos a largo plazo
+T302	RSC 16936 16958	crecimiento sostenible
+T305	CONTAFIN 17007 17021	Beneficio Neto
+T306	CONTAFIN 17064 17082	Solidez financiera
+T308	CONTAFIN 17113 17123	Deuda Neta
+T309	CONTAFIN 17181 17201	crecimiento orgánico
+T310	CONTAFIN 17236 17241	ratio
+T311	CONTAFIN 17246 17256	Deuda Neta
+T312	CONTAFIN 17268 17288	Dividendo sostenible
+T313	CONTAFIN 17293 17305	remuneración
+T314	GC 17310 17320	accionista
+T318	CONTAFIN 17460 17469	dividendo
+T321	RSC 17557 17560	ODS
+T322	EST 17611 17628	modelo de Negocio
+T325	CONTAFIN 17684 17700	dividendo social
+T326	CONTAFIN 17720 17737	creación de valor
+T327	RSC 17738 17757	de forma sostenible
+T328	EST 17773 17790	Grupos de interés
+T332	CONTAFIN 17979 17988	cobertura
+T336	RSC 18492 18519	gases de efecto invernadero
+T339	CONTAFIN 18635 18642	índices
+T340	EST 18646 18660	accidentalidad
+T342	RSC 18910 18913	GEI
+T344	GC 19081 19099	puestos directivos
+T346	GC 19318 19321	CEO
+T347	RSC 19342 19345	ONU
+T348	CONTAFIN 19512 19515	PIB
+T350	CONTAFIN 19580 19586	emisor
+T351	RSC 19610 19622	bonos verdes
+T355	RSC 19961 19977	inclusión social
+T360	RSC 20504 20511	energía
+T362	CONTAFIN 20551 20558	IBEX 35
+T363	GC 20576 20604	Junta General de Accionistas
+T364	RSC 20617 20627	sostenible
+T372	GC 21292 21302	compliance
+T374	RSC 21609 21612	ODS
+T375	RSC 21671 21674	ODS
+T376	CONTAFIN 21770 21794	Gestión de los capitales
+T378	CONTAFIN 21835 21842	activos
+T379	EST 21863 21880	modelo de negocio
+T381	CONTAFIN 21938 21945	activos
+T383	EST 21987 22004	Grupos de interés
+T384	CONTAFIN 22007 22023	Dividendo social
+T386	CONTAFIN 22054 22063	capitales
+T387	CONTAFIN 22068 22084	dividendo social
+T388	EST 22115 22132	modelo de negocio
+T390	CONTAFIN 22188 22197	capitales
+T391	CONTAFIN 22236 22253	creación de valor
+T394	CONTAFIN 22327 22336	capitales
+T396	CONTAFIN 22393 22400	Capital
+T397	EST 22404 22423	enfoque estratégico
+T399	CONTAFIN 22509 22525	valor compartido
+T400	EST 22562 22579	Grupos de interés
+T406	CONTAFIN 22844 22852	economía
+T407	RSC 22882 22903	transición energética
+T410	RSC 23352 23368	descarbonización
+T411	RSC 23388 23395	energía
+T413	RSC 23408 23415	energía
+T414	RSC 23429 23439	sostenible
+T416	RSC 23506 23513	energía
+T419	EST 23622 23636	digitalización
+T424	CONTAFIN 23793 23806	mercado único
+T425	CONTAFIN 23837 23856	plan de inversiones
+T427	RSC 23914 23924	renovables
+T429	EST 23983 24000	Modelo de negocio
+T430	RSC 24048 24068	generación renovable
+T432	CONTAFIN 24277 24294	marco regulatorio
+T433	CONTAFIN 24338 24347	inversión
+T434	CONTAFIN 24407 24414	activos
+T436	EST 24528 24542	digitalización
+T440	CONTAFIN 24664 24675	Inversiones
+T442	RSC 24696 24706	renovables
+T446	CONTAFIN 25562 25570	subastas
+T448	CONTAFIN 25641 25648	subasta
+T449	CONTAFIN 25768 25776	subastas
+T450	CONTAFIN 25823 25843	crecimiento orgánico
+T451	CONTAFIN 25980 26000	Eficiencia operativa
+T452	CONTAFIN 26131 26140	ejercicio
+T456	CONTAFIN 26336 26356	crecimiento rentable
+T458	EST 26384 26407	contratos a largo plazo
+T459	CONTAFIN 26417 26438	cartera diversificada
+T460	EST 26501 26521	Pilares estratégicos
+T461	EST 26529 26549	pilares estratégicos
+T462	CONTAFIN 26573 26590	creación de valor
+T463	EST 26606 26623	Grupos de interés
+T465	RSC 26733 26743	sostenible
+T466	CONTAFIN 26768 26776	rentable
+T468	RSC 27051 27067	descarbonización
+T469	CONTAFIN 27144 27170	inversiones significativas
+T470	RSC 27174 27194	generación renovable
+T471	RSC 27291 27311	generación renovable
+T472	CONTAFIN 27425 27436	previsiones
+T474	CONTAFIN 27458 27469	inversiones
+T475	CONTAFIN 27538 27548	invertidos
+T477	CONTAFIN 27637 27648	inversiones
+T480	CONTAFIN 27823 27832	inversión
+T481	CONTAFIN 27836 27853	activos regulados
+T482	EST 27860 27883	contratos a largo plazo
+T483	CONTAFIN 27909 27920	inversiones
+T485	RSC 28033 28043	Renovables
+T489	CONTAFIN 28242 28251	inversión
+T490	CONTAFIN 28391 28400	dividendo
+T492	CONTAFIN 28440 28449	dividendo
+T493	CONTAFIN 28480 28486	acción
+T494	CONTAFIN 28516 28522	acción
+T499	EST 28723 28743	pilares estratégicos
+T502	CONTAFIN 28812 28818	EBITDA
+T504	CONTAFIN 28946 28966	eficiencia operativa
+T506	CONTAFIN 29114 29130	gasto financiero
+T507	CONTAFIN 29149 29163	Beneficio Neto
+T508	GC 29327 29352	Consejo de Administración
+T509	CONTAFIN 29394 29406	remuneración
+T510	GC 29410 29420	accionista
+T512	CONTAFIN 29467 29478	retribución
+T513	GC 29485 29496	accionistas
+T515	CONTAFIN 29545 29556	inversiones
+T516	CONTAFIN 29578 29585	capital
+T518	CONTAFIN 29667 29679	estimaciones
+T519	CONTAFIN 29700 29706	EBITDA
+T520	CONTAFIN 29814 29820	EBITDA
+T522	RSC 29861 29871	Renovables
+T524	CONTAFIN 29924 29935	previsiones
+T525	CONTAFIN 29939 29953	Beneficio Neto
+T526	CONTAFIN 30175 30193	solidez financiera
+T527	CONTAFIN 30211 30216	ratio
+T528	CONTAFIN 30224 30234	Deuda Neta
+T529	CONTAFIN 30292 30312	crecimiento orgánico
+T530	CONTAFIN 30347 30352	ratio
+T531	CONTAFIN 30357 30367	Deuda Neta
+T532	CONTAFIN 30411 30419	liquidez
+T533	CONTAFIN 30459 30465	margen
+T534	CONTAFIN 30556 30572	coste financiero
+T535	CONTAFIN 30598 30607	cobertura
+T536	CONTAFIN 30680 30688	liquidez
+T537	CONTAFIN 30723 30734	financieras
+T538	CONTAFIN 30740 30760	Dividendo sostenible
+T539	CONTAFIN 30775 30782	solidez
+T542	CONTAFIN 30854 30865	retribución
+T543	GC 30872 30883	accionistas
+T545	GC 30916 30941	Consejo de Administración
+T546	GC 30958 30986	Junta General de Accionistas
+T547	CONTAFIN 30991 31003	remuneración
+T548	GC 31007 31017	accionista
+T549	CONTAFIN 31037 31043	acción
+T550	CONTAFIN 31084 31089	cargo
+T551	CONTAFIN 31093 31102	ejercicio
+T552	CONTAFIN 31115 31127	remuneración
+T554	CONTAFIN 31221 31230	dividendo
+T556	CONTAFIN 31308 31314	acción
+T557	CONTAFIN 31344 31350	acción
+T560	CONTAFIN 31430 31438	acciones
+T561	CONTAFIN 31480 31500	recompra de acciones
+T562	CONTAFIN 31514 31522	dilución
+T564	CONTAFIN 31656 31663	activos
+T565	CONTAFIN 31727 31733	EBITDA
+T566	CONTAFIN 31758 31772	beneficio neto
+T567	CONTAFIN 31778 31790	remuneración
+T568	GC 31797 31808	accionistas
+T569	CONTAFIN 31857 31875	solidez financiera
+T4	RSC 1849 1869	combustibles fósiles
+T23	EST 3055 3077	acciones de mitigación
+T35	RSC 4862 4912	Task Force on Climate-related Financial Disclosure
+T40	RSC 4914 4918	TCFD
+T12	RSC 3887 3905	UN Global Compact
+T47	RSC 4597 4636	Asamblea General de las Naciones Unidas
+T50	RSC 5176 5205	fuentes renovables de energía
+T51	RSC 8779 8788	emisiones
+T52	RSC 11020 11037	Ética corporativa
+T53	CONTAFIN 11471 11502	activos tangibles e intangibles
+T57	CONTAFIN 7379 7415	Posicionamiento económico-financiero
+T59	RSC 12336 12351	electrificación
+T60	RSC 12597 12617	combustibles fósiles
+T61	RSC 13256 13274	Energía sostenible
+T62	RSC 14658 14684	objetivos medioambientales
+T65	RSC 15608 15664	Task Force for Climate Change Risks Financial Disclosure
+T67	CONTAFIN 16386 16422	empleo directo, indirecto e inducido
+T68	CONTAFIN 17100 17105	ratio
+T69	CONTAFIN 17109 17112	FFO
+T70	CONTAFIN 17242 17245	FFO
+T72	CONTAFIN 17390 17403	pay-out ratio
+T74	RSC 18857 18885	Índice de Igualdad de Género
+T75	RSC 18887 18908	Gender Equality Index
+T76	CONTAFIN 19411 19462	puestos de trabajo directos, indirectos e inducidos
+T77	RSC 19647 19663	deuda verde viva
+T78	RSC 19723 19741	financiación verde
+T79	RSC 20178 20206	Plan de Movilidad Sostenible
+T80	RSC 20428 20449	producción energética
+T81	RSC 20685 20709	parques eólicos offshore
+T82	RSC 21001 21029	Huella Ambiental Corporativa
+T83	CONTAFIN 21265 21285	sistemas antisoborno
+T85	RSC 22679 22700	suministro de energía
+T86	RSC 22816 22837	electrificación verde
+T91	RSC 23005 23030	almacenamiento energético
+T93	CONTAFIN 28538 28555	Solidez inanciera
+T95	CONTAFIN 28643 28667	resultados del ejercicio
+T98	CONTAFIN 30220 30223	FFO
+T99	CONTAFIN 30353 30356	FFO
+T103	CONTAFIN 30531 30538	mercado
+T104	CONTAFIN 31378 31391	pay-out ratio
+T113	RSC 591 606	electrificación
+T114	RSC 729 744	electrificación
+T116	RSC 6798 6813	electrificación
+T33	RSC 10198 10204	enería
+T5	RSC 371 384	descarbonicen
+T18	RSC 1380 1410	consumo final total de energía
+T20	RSC 2635 2667	modelo energético descarbonizado
+T24	RSC 3137 3160	agenda climática global
+T41	RSC 4993 5013	estrategia climática
+T42	RSC 6940 6958	libre de emisiones
+T96	RSC 8643 8661	libre de emisiones
+T107	RSC 15528 15559	Science Based Target Initiative
+T108	CONTAFIN 16093 16109	economía mundial
+T111	RSC 16209 16230	emisiones específicas
+T118	CONTAFIN 16811 16830	marcos regulatorios
+T122	EST 19879 19918	Programa de innovación y digitalización
+T123	RSC 3471 3492	Science Based Targets
+T125	RSC 3494 3498	SBTi
+T14	RSC 622 653	descarbonización de la economía
+T15	RSC 1513 1540	paquete de movilidad limpia
+T16	EST 2847 2865	redes inteligentes
+T27	RSC 3417 3434	neutra en carbono
+T32	RSC 3660 3685	sensibilización climática
+T56	RSC 3978 4001	Corporate Leaders Group
+T126	RSC 4003 4006	CLG
+T128	RSC 4099 4102	CLG
+T130	RSC 4189 4211	UN Global Compact Lead
+T31	RSC 4109 4130	emisiones netas nulas
+T25	RSC 4955 4976	emisiones netas nulas
+T131	EST 5738 5752	canales online
+T133	EST 6448 6462	automatización
+T136	EST 6465 6479	control remoto
+T137	EST 6580 6598	redes inteligentes
+T138	RSC 8439 8455	energías limpias
+T139	EST 11282 11314	equilibrio "riesgo/ oportunidad"
+T140	RSC 11911 11932	Propósito Corporativo
+T142	EST 12721 12739	redes inteligentes
+T145	RSC 12680 12715	almacenamiento eficiente de energía
+T146	RSC 12839 12848	bienestar
+T147	RSC 12977 12989	inclusividad
+T148	RSC 13007 13014	equidad
+T150	RSC 12995 13002	gualdad
+T151	RSC 14036 14043	pobreza
+T153	RSC 14064 14075	desigualdad
+T155	RSC 14081 14091	injusticia
+T34	RSC 14780 14798	neutros en carbono
+T63	RSC 15483 15505	reducción de emisiones
+T156	EST 15705 15723	redes inteligentes
+T157	RSC 15761 15784	contadores inteligentes
+T159	RSC 17938 17977	clientes en situación de vulnerabilidad
+T165	RSC 18001 18040	clientes en situación de vulnerabilidad
+T166	RSC 18350 18362	voluntariado
+T167	RSC 18393 18411	comedores sociales
+T168	CONTAFIN 19169 19190	ventas/agua utilizada
+T169	RSC 19360 19400	prácticas sostenibles en el uso del agua
+T170	EST 19765 19783	redes inteligentes
+T171	RSC 20029 20053	voluntariado corporativo
+T176	RSC 20767 20786	ecosistemas marinos
+T177	RSC 20841 20863	protección de la fauna
+T186	RSC 20866 20898	conservación de hábitats marinos
+T187	EST 22981 22999	redes inteligentes
+T188	RSC 22958 22975	generación limpia
+T189	RSC 24143 24172	generación libre de emisiones
+T190	CONTAFIN 28148 28175	diversificación por monedas
+T192	CONTAFIN 29890 29917	diversificación por monedas
+T193	CONTAFIN 30619 30639	escenarios de estrés

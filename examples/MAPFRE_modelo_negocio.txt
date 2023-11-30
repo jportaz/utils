@@ -1,0 +1,201 @@
+Modelo de negocio, estrategia y evolución
+
+3.1. Modelo de negocio
+
+La Visión de MAPFRE es ser LA ASEGURADORA GLOBAL DE CONFIANZA, un concepto que se refiere tanto a la presencia geográfica como al amplio rango de productos aseguradores, reaseguradores y de servicios que desarrolla en todo el mundo.
+
+Aspira a liderar los mercados en los que opera, a través de un modelo de gestión propio y diferenciado, basado en la transformación e innovación para lograr un crecimiento rentable, con una clara y decidida orientación al cliente, tanto particular como empresarial, con enfoque multicanal y una profunda vocación de servicio.
+
+MAPFRE ofrece un completo programa de aseguramiento a personas, adaptado a los diferentes países, con una extensa oferta aseguradora para Vida, Salud, Accidentes, Protección del patrimonio (seguros de hogar, seguros de automóviles, seguros de responsabilidad civil familiar, etc.), Ahorro e inversión, Jubilación, Decesos, Viajes y Ocio.
+
+Ayuda a profesionales, emprendedores, autónomos y pequeñas empresas a desarrollar sus proyectos ofreciendo un amplio portafolio de productos y servicios que les permiten concentrarse en su actividad profesional (con soluciones dirigidas a vehículos, responsabilidad civil y patrimonio, agricultura y ganadería, comercios...), y asegurando también sus riesgos personales (accidentes, salud, vida, jubilación, ahorro e inversión).
+
+También, ofrece soluciones específicas tanto para empresas pequeñas y medianas, como para grandes corporaciones, con una oferta de productos y servicios adaptados a la actividad de cada organización, tanto en un ámbito local, nacional, como a nivel global, ajustadas al modelo de gestión de cada cliente con oferta de productos para Vehículos, Responsabilidad Civil y Patrimonio, Ingeniería y Construcción, Cascos y Aviación, Transporte de Mercancías, Industrias Agropecuarias, Caución y Crédito, Seguros Colectivos de Salud, Accidentes, y Vida y Jubilación entre otros.
+
+Además, MAPFRE cuenta con una oferta reaseguradora que complementa su actividad aseguradora.
+
+MAPFRE apuesta de forma decidida por mantener en los países en los que opera sus redes propias, que son compatibles con el resto de canales de distribución. La orientación al cliente, la oferta global de productos, y la adaptación a las particularidades jurídicas y comerciales de cada uno de los mercados en que está presente son algunas de las claves del modelo.
+
+Las redes propias de MAPFRE se complementan con la capacidad de distribución que aportan los acuerdos con diferentes entidades, en especial los de bancaseguros, y otros con otras entidades financieras, concesionarios de automóviles, centros comerciales, empresas de servicios. etc.
+
+MAPFRE persigue desarrollar la mejor relación con los grupos de interés entre los que se encuentran los empleados, clientes, distribuidores, proveedores, accionistas y la sociedad en general. Para más información consultar el capítulo Dimensión Social y Relacional.
+
+3.2. Estrategia
+
+MAPFRE cuenta con un modelo de planificación y gestión de la estrategia estructurado, alineado y participativo, que permite la actualización constante del plan estratégico tanto a nivel corporativo como en cada una de las regiones, países y unidades de negocio.
+
+En 2018 se cierra el ejercicio del plan estratégico 2016–2018, en el que MAPFRE se marcó unos objetivos muy claros y un portafolio de iniciativas que nos llevarían a Crecer de Forma Rentable.
+
+El balance al cierre de este plan es positivo, han sido tres años de intenso trabajo en los que se ha avanzado en la transformación y digitalización de los negocios en los que operamos. Los principales logros en cada uno de los pilares estratégicos que conforman el plan son:
+
+Orientación al cliente
+
+Para el Grupo es importante conocer y entender las necesidades de los clientes, sus comportamientos y sus aspiraciones de forma que permita retenerlos o captarlos del mercado. Durante los tres años del plan estratégico se han llevado a cabo numerosos proyectos en los diferentes países en los que operamos, los cuales han potenciado la relación con los clientes y brindado nuevas oportunidades de crecimiento. Algunos de los logros son:
+
+Desarrollo de las iniciativas de Modelo de Relación con Clientes y Grandes Ciudades, buscando mejorar la experiencia del cliente y aumentar la cuota de mercado en grandes ciudades.
+
+Análisis del modelo de negocio de 19 países determinando oportunidades que permiten potenciar el mix de productos, canales y clientes.
+
+Creación de una Dirección de Negocio Global de Vida y definición de la hoja de ruta para el desarrollo de este negocio.
+
+Mejora en la gestión de activos gracias al fortalecimiento de MAPFRE INVERSIÓN.
+
+Nuevos acuerdos globales, con fabricantes de vehículos, concesionarios, retail, compañías de comercio electrónico entre otros.
+
+Creación del nuevo Modelo de Innovación (MOi) para potenciar la innovación estratégica (intraemprendimiento) y disruptiva con el lanzamiento de insur_space MAPFRE.
+
+Transformación digital
+
+Es imprescindible para MAPFRE mantener los esfuerzos para continuar en el proceso de adaptación a la nueva Era Digital.
+
+Entre los logros obtenidos se encuentran:
+
+Ejecución del Plan de Negocio Digital, gracias al cual nos encontramos muy cerca de los 1.500 millones de euros en primas de negocio digital.
+
+Se han desarrollado más de 200 proyectos que nos permiten adelantarnos a los cambios de la era digital y ofrecer un mejor servicio a clientes, proveedores y empleados.
+
+Desarrollo de la iniciativa SAM 3.0 (Seguro de Automóvil MAPFRE) que está permitiendo preparar a la Compañía para afrontar las nuevas circunstancias de mercado en el entorno del automóvil.
+
+Desarrollo del modelo de negocio Salud Digital.
+
+Excelencia en la gestión técnica y operativa
+
+Nuestra actividad requiere trabajar constantemente en la búsqueda de la excelencia operativa adaptándonos a los nuevos requerimientos del cliente, del mercado y la regulación. Las principales acciones desarrolladas en este pilar son:
+
+Implantación del modelo de contact-center.
+
+Construcción de la aplicación de autoservicio para el cliente.
+
+Implantación del modelo global de proveedores.
+
+Desarrollo de nuevos modelos predictivos y analíticos.
+
+Soluciones de marketing digital y tarificadores.
+
+Despliegue de modelos operativos de emisión, siniestros y fraude.
+
+Cultura y talento
+
+Para una ejecución exitosa del Plan Estratégico, es trascendental apoyarse en las personas y en la cultura de MAPFRE. Algunos de los logros son:
+
+Implantación de la iniciativa Gestión del Talento, identificación de perfiles y desarrollo del talento.
+
+La iniciativa de Homologación de Plantillas nos ha ayudado a lograr mayor homogeneidad en los distintos niveles de la organización.
+
+En ejecución se encuentra la iniciativa Reto Digital enfocada en el cambio del entorno de trabajo, trabajo colaborativo, gestión del conocimiento, cultura digital y nuevas formas de retribución.
+
+Avances sustanciales en términos de igualdad de oportunidades y diversidad e inclusión laboral.
+
+Definición y puesta en marcha del Plan de Sostenibilidad.
+
+3.3. Perspectivas de futuro
+
+En 2018, MAPFRE ha realizado un ejercicio de reflexión para revisar su direccionamiento estratégico, partiendo de la necesidad de consolidar y rentabilizar más los negocios, así como capturar nuevas oportunidades para responder a la velocidad de transformación del entorno, con el objetivo de mantener la competitividad en el sector.
+
+En esta línea se ha reforzado el Plan Estratégico para el periodo 2019–2021 bajo el lema TRANSFORMÁNDONOS PARA CRECER Y MEJORAR LA RENTABILIDAD, apoyados en los pilares estratégicos de Orientación al cliente, Excelencia en la gestión técnica y operativa y en la Cultura y talento.
+
+La transformación estará presente en todo lo que hagamos, es decir, será transversal y actuará como un auténtico acelerador en todos los ámbitos de nuestra compañía.
+
+3.4. Evolución de los negocios
+
+3.4.1. Hechos relevantes
+
+Entre los hechos corporativos relevantes del ejercicio 2018 caben destacar los siguientes:
+
+MAPFRE renueva la alianza estratégica con Banco do Brasil, que dio lugar a BB MAPFRE, en mayo de 2010. MAPFRE pasa a ser titular del 100% del negocio No Vida de BB MAPFRE, que incluye el desarrollado a través del canal agencial y a través del canal bancario en los seguros de automóviles y de grandes riesgos, y del negocio de Vida relativo a los productos que se distribuyen a través del canal agencial.
+
+MAPFRE VIDA anuncia la adquisición a Bankia del 51% del capital social de Caja Granada Vida y Caja Murcia Vida y Pensiones.
+
+MAPFRE firma un acuerdo de intenciones con Santa Lucía para el desarrollo conjunto de sus respectivos negocios de servicios funerarios en España.
+
+MAPFRE emite títulos de deuda subordinada a 30 años, con opción de amortización a los 10 años, por importe de 500 millones de euros, con un tipo de interés fijo establecido en el 4,125% durante los 10 primeros años.
+
+MAPFRE lanza Capital Responsable, un fondo de inversión gestionado por MAPFRE AM que invierte en acciones y títulos de renta fija de compañías europeas en base a sus criterios ambientales, sociales y de gobernanza (ASG).
+
+MAPFRE transforma su línea de crédito sindicado de 1.000 millones de euros (con vencimiento en diciembre de 2021) en un préstamo sostenible y se convierte en la primera aseguradora del mundo que realiza una operación de este tipo para necesidades generales corporativas.
+
+MAPFRE participa como inversor principal, con 25 millones de euros, en el fondo de capital riesgo Alma Mundi Insurtech Fund, FCRE.
+
+MAPFRE firma un principio de acuerdo de coinversión inmobiliaria, con GLL, en mercados europeos para invertir hasta 300 millones de euros en oficinas y diversificar la cartera de activos financieros.
+
+MAPFRE inaugura insur_space, su nueva aceleradora de startups ubicada en Madrid. Insur_space es uno de los pilares de MAPFRE Open Innovation, la plataforma de innovación abierta que la compañía ha puesto en marcha para impulsar la innovación en MAPFRE y en el sector asegurador.
+
+MAPFRE aprueba una nueva configuración para su negocio de riesgos globales, que dotará de mayor capacidad de gestión y de negocio de este tipo de riesgos, y aportará mayor estabilidad y eficiencia financiera al grupo.
+
+MAPFRE acuerda con el grupo asegurador norteamericano Plymouth Rock Assurance la venta de sus operaciones en los Estados de Nueva York y Nueva Jersey, como parte del proceso de desinversiones enmarcado en el plan de crecimiento rentable.
+
+MAPFRE INSULAR firma una alianza estratégica con First Union Insurance and Financial Agencies Incorporated (FUIFAI), la filial aseguradora de Union Bank of Philippines (UBP), para la distribución y venta de todos los seguros de MAPFRE INSULAR.
+
+MAPFRE acuerda la renovación y ampliación de su acuerdo de patrocinio con Renault Sport Formula 1 Team, y se convierte en uno de los principales patrocinadores oficiales de la escudería automovilística durante las próximas cinco temporadas.
+
+MAPFRE se une al proyecto piloto de UNEP FI de la ONU para evaluar el impacto del cambio climático e incorporar las recomendaciones de la Task Force on Climate-related Financial Disclosures (TFCD) en el sector asegurador.
+
+Otros hechos económicos relevantes del ejercicio son:
+
+El Grupo ha actualizado a fin del ejercicio 2018 el entorno macroeconómico y otros factores de riesgo que pudieran afectar en el futuro al negocio asegurador y, en consecuencia, a las proyecciones de resultados de las áreas de negocio del Grupo. Esta actualización de proyecciones ha supuesto un deterioro parcial, de carácter extraordinario, de los fondos de comercio de las operaciones de seguro directo en Estados Unidos, Italia e Indonesia por un importe de 173,5 millones de euros. Este deterioro parcial de fondos de comercio no tiene efecto alguno en la tesorería generada por el Grupo en 2018, ni afecta a su fortaleza financiera, ni a los modelos de capital que soportan los ratings actuales y el elevado nivel de solvencia del Grupo y sus filiales, manteniendo, por tanto, su importante capacidad generadora de dividendos.
+
+En el ejercicio 2018, MAPFRE RE se ha visto afectada por varios eventos catastróficos entre los que destacan los tifones acaecidos en Japón que han tenido un impacto neto atribuido de 87,3 millones de euros y las tormentas en Estados Unidos con un impacto neto atribuido de 9,3 millones de euros.
+
+Las variaciones más destacables son las siguientes:
+
+1. Las primas muestran decrecimiento en todas las unidades de negocio a excepción del área de IBERIA que, aunque muestra una emisión muy positiva de forma recurrente, destaca excepcionalmente debido a la emisión de una póliza de colectivos de vida en el tercer trimestre de 2018. El decrecimiento del resto de las unidades viene motivado principalmente por la fuerte depreciación de las principales monedas de los países donde MAPFRE mantiene operaciones en el negocio internacional.
+
+2. El área de IBERIA mantiene un resultado técnico y un ratio combinado de No Vida muy bueno situándose al cierre del ejercicio en el 93,8%. Eliminando los resultados no recurrentes, el resultado atribuido estaría creciendo el 4,9%.
+
+3. El área de LATAM presenta una caída en su beneficio por menores resultados del canal bancario de Brasil debido a una subida en los gastos de adquisición en el negocio de Vida Riesgo y a un aumento de la siniestralidad en Autos en el canal agencial.
+
+Por otro lado, el entorno de bajos tipos de interés en Brasil y en otros países de la región genera unos menores ingresos financieros. Además, Colombia empeora sus resultados debido a las mayores provisiones técnicas que ha sido necesario constituir en los negocios de Vida Ahorro y de Accidentes de Trabajo.
+
+Durante el ejercicio, se ha producido la venta de un inmueble de MAPFRE en Chile, que ha supuesto una plusvalía neta atribuida de 25 millones de euros.
+
+4. El área de INTERNACIONAL está afectada por el impacto de varias tormentas en la costa Este de los Estados Unidos que produce un aumento en el ratio combinado en las líneas de negocio de Autos y Seguros Generales y por la salida del negocio en varios estados, lo cual ha tenido un impacto negativo neto en el resultado por importe de 18,9 millones de euros; a esto se une el efecto en Turquía del impacto derivado del cambio regulatorio en el seguro de Responsabilidad Civil de Automóviles que ha producido una caída en el resultado debido a la intervención de las tarifas en este ramo.
+
+5. Las unidades de negocio de GLOBAL RISKS y ASISTENCIA muestran una evolución favorable, la primera por la ausencia de siniestros relevantes de elevada intensidad y la segunda por un mejor comportamiento de la siniestralidad debido a las medidas técnicas adoptadas en el pasado ejercicio.
+
+6. En el holding y eliminaciones se incluye a diciembre de 2018 la dotación extraordinaria de 173,5 millones de euros por el deterioro parcial de fondos de comercio.
+
+Cuotas de mercado
+
+MAPFRE ocupa la segunda posición en el ranking 2017 de grupos No Vida en Brasil, con una cuota de mercado a noviembre de 2018 del 13,4%.
+
+Otra información
+
+Durante el ejercicio 2018, MAPFRE y Banco do Brasil acordaron la actualización de su alianza estratégica en el negocio de seguros. Como consecuencia de lo anterior, MAPFRE ha pasado a ser titular del 100% (anteriormente, el 50%) de la totalidad del negocio (Vida y no Vida) generado por el canal agencial, y de los negocios de autos y de grandes riegos que se distribuirán a través del canal bancario. Asimismo, mantiene su actual participación (25%) en BB MAPFRE, que incorpora a su negocio los seguros de hogar del canal bancario. Dicho acuerdo permite a MAPFRE:
+
+Aumentar significativamente la participación accionarial en el negocio de Brasil.
+
+Incrementar la aportación del beneficio del negocio local.
+
+Simplificar la ejecución de su estrategia en Brasil.
+
+Potenciar la marca MAPFRE en Brasil y consolidarse como la 2a compañía de No Vida del país.
+
+Mantener la exclusividad del canal Banco do Brasil.
+
+LATAM NORTE
+
+Incluye las operaciones de México y la subregión de América Central, que incluye Panamá, República Dominicana, Honduras, Guatemala, Costa Rica, El Salvador y Nicaragua.
+
+Representa un 5% del volumen total de primas del Grupo.
+
+UNIDAD GLOBAL RISKS
+
+Unidad especializada del Grupo que gestiona programas globales de seguros de grandes multinacionales (por ejemplo, pólizas que cubren riesgos de aviación, nucleares, energéticos, responsabilidad civil, incendios, ingeniería, transporte y caución).
+
+Aporta el 5% de las primas totales del Grupo.
+
+Otra información
+
+En abril de 2018, MAPFRE aprobó una nueva configuración de sus negocios de aseguramiento de los grandes riesgos industriales y comerciales.
+
+Bajo el nuevo esquema, MAPFRE GLOBAL RISKS continuará desarrollando su capacidad de gestión y conocimiento del mercado y, al mismo tiempo, el riesgo asegurador o reasegurador será asignado a las entidades del grupo que, por su especialización, dimensión o capacidad, están en condiciones de asumirlo con un mayor grado de eficiencia y rentabilidad.
+
+Al cierre del ejercicio 2018, esta operación de reestructuración empresarial está todavía pendiente de aprobación por el organismo regulador español.
+
+UNIDAD ASISTENCIA
+
+Es la unidad especializada en asistencia en viaje y carretera y otros riesgos especiales del Grupo, operando en 40 países. MAPFRE ASISTENCIA es la cuarta compañía del sector por ingresos en el mundo y cuenta con una de las mayores redes mundiales de asistencia.
+
+Supone el 4% de las primas totales del Grupo.
+
+La cobertura que ofrece abarca todas las necesidades de asistencia de los viajeros, de sus acompañantes y de su equipaje, antes, durante y después de cada viaje, en cualquier parte del mundo.

@@ -1,0 +1,126 @@
+T0	RSC 5 19	Medio ambiente
+T1	RSC 24 40	HUELLA AMBIENTAL
+T3	EST 82 99	LÍNEAS DE TRABAJO
+T4	RSC 208 224	huella ambiental
+T6	CONTAFIN 260 265	coste
+T7	RSC 273 282	emisiones
+T10	CONTAFIN 373 384	indicadores
+T11	RSC 410 427	impacto ambiental
+T16	RSC 696 721	compromiso medioambiental
+T19	EST 946 970	Misión, Visión y Valores
+T20	RSC 1000 1014	Medio Ambiente
+T21	EST 1017 1038	Prevención de Riesgos
+T23	RSC 1087 1104	impacto ambiental
+T24	RSC 1127 1148	eficiencia energética
+T26	CONTAFIN 1222 1237	materias primas
+T28	CONTAFIN 1306 1315	ejercicio
+T31	CONTAFIN 1498 1509	inversiones
+T32	RSC 1543 1565	impacto medioambiental
+T33	RSC 1591 1605	medio ambiente
+T34	CONTAFIN 1625 1641	gastos derivados
+T35	CONTAFIN 1710 1716	gastos
+T36	RSC 1735 1755	retirada de residuos
+T38	CONTAFIN 1784 1806	inversiones realizadas
+T39	CONTAFIN 1820 1837	gastos devengados
+T40	CONTAFIN 1849 1858	ejercicio
+T41	RSC 1896 1910	medio ambiente
+T43	CONTAFIN 2030 2058	Cuentas Anuales Consolidadas
+T44	CONTAFIN 2079 2094	ejercicio anual
+T47	RSC 2227 2248	Plan de Ecoeficiencia
+T48	EST 2276 2297	modelo de seguimiento
+T50	CONTAFIN 2399 2408	desempeño
+T51	RSC 2521 2544	certificación ambiental
+T53	RSC 2707 2723	Cambio climático
+T54	EST 2760 2775	cadena de valor
+T55	CONTAFIN 2859 2872	Informe Anual
+T57	RSC 2953 2969	cambio climático
+T62	RSC 3193 3200	energía
+T63	EST 3226 3245	análisis de riesgos
+T65	EST 3343 3357	monitorización
+T68	RSC 3392 3409	impacto ambiental
+T73	CONTAFIN 3715 3726	indicadores
+T74	RSC 3786 3803	impacto ambiental
+T76	CONTAFIN 3859 3868	indicador
+T77	EST 3917 3933	Mapa de Procesos
+T78	CONTAFIN 3937 3942	coste
+T79	RSC 3950 3959	emisiones
+T83	CONTAFIN 4124 4129	coste
+T84	CONTAFIN 4160 4180	cuenta de resultados
+T88	CONTAFIN 4231 4237	ventas
+T89	CONTAFIN 4274 4279	coste
+T90	RSC 4319 4336	gestión ambiental
+T91	RSC 4381 4388	energía
+T92	CONTAFIN 4420 4438	residuos generados
+T94	CONTAFIN 4478 4497	recursos materiales
+T96	CONTAFIN 4548 4563	materias primas
+T97	RSC 4752 4760	vertidos
+T99	RSC 4867 4884	Economía circular
+T100	RSC 4950 4967	economía circular
+T102	CONTAFIN 5093 5110	flujos económicos
+T104	CONTAFIN 5142 5153	Proveedores
+T105	CONTAFIN 5156 5171	Materias primas
+T106	CONTAFIN 5187 5193	compra
+T107	CONTAFIN 5197 5212	materias primas
+T108	RSC 5347 5354	Energía
+T109	CONTAFIN 5371 5377	compra
+T110	RSC 5381 5398	energía eléctrica
+T112	RSC 5463 5470	energía
+T113	CONTAFIN 5471 5479	comprada
+T114	RSC 5538 5545	energía
+T115	CONTAFIN 5652 5670	residuos generados
+T116	RSC 5853 5867	reciclabilidad
+T117	RSC 5875 5883	residuos
+T118	CONTAFIN 5897 5902	venta
+T120	RSC 5968 5987	Gestión de residuos
+T121	RSC 6016 6030	reciclabilidad
+T122	RSC 6038 6046	residuos
+T123	RSC 6212 6220	residuos
+T124	RSC 6234 6243	reciclaje
+T126	RSC 6420 6428	retornos
+T127	RSC 6499 6516	economía circular
+T132	RSC 7109 7117	retornos
+T134	RSC 7178 7186	residuos
+T136	CONTAFIN 7380 7391	proveedores
+T137	CONTAFIN 7451 7469	residuos generados
+T138	RSC 7527 7547	gestores de residuos
+T142	CONTAFIN 7790 7795	venta
+T145	RSC 8027 8048	Eficiencia energética
+T147	RSC 8159 8180	eficiencia energética
+T148	RSC 8251 8267	huella ambiental
+T155	RSC 8882 8911	sistemas de gestión ambiental
+T158	CONTAFIN 9166 9172	multas
+T159	RSC 9186 9200	medio ambiente
+T160	CONTAFIN 9228 9234	multas
+T161	CONTAFIN 9257 9271	incumplimiento
+T162	RSC 9309 9318	ambiental
+T163	CONTAFIN 9334 9340	multas
+T2	RSC 288 308	compromiso ambiental
+T5	RSC 1282 1290	residuos
+T8	RSC 1405 1431	legislación medioambiental
+T9	RSC 1645 1673	actuaciones medioambientales
+T13	CONTAFIN 3169 3184	materias primas
+T14	RSC 3360 3382	Compensación ambiental
+T22	RSC 3490 3511	neutralidad ambiental
+T25	RSC 3978 4006	Derechos de Emisión Europeos
+T27	RSC 3973 3976	EUA
+T29	RSC 4204 4224	coste medioambiental
+T30	RSC 6292 6301	vertedero
+T46	RSC 7599 7609	vertederos
+T56	EST 7843 7866	servicios subcontratado
+T58	RSC 8051 8074	emisiones contaminantes
+T60	RSC 8754 8787	Contaminación lumínica y acústica
+T12	RSC 5413 5431	fuentes renovables
+T15	CONTAFIN 2339 2374	sistema de reporting de información
+T17	RSC 4077 4105	mercado mundial de emisiones
+T18	RSC 5052 5069	desechos vírgenes
+T37	RSC 5228 5249	procesos de reciclado
+T49	RSC 6120 6129	vertedero
+T52	RSC 6341 6361	sistema de reciclado
+T59	RSC 6646 6654	retornos
+T61	EST 737 755	enfoque preventivo
+T42	EST 2162 2195	modelo de gestión descentralizado
+T45	RSC 4826 4846	tratamiento del agua
+T64	RSC 5913 5932	embalaje retornable
+T66	EST 9141 9152	Expedientes
+T67	EST 9154 9163	sanciones
+T69	CONTAFIN 1997 2001	Nota

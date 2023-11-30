@@ -1,0 +1,91 @@
+T2	GC 28 53	Consejo de Administración
+T3	GC 62 76	alta dirección
+T4	GC 81 106	Consejo de Administración
+T5	GC 112 126	alta dirección
+T7	EST 188 210	gestión de los riesgos
+T9	EST 279 299	tolerancia al riesgo
+T11	CONTAFIN 414 431	apetito al riesgo
+T15	CONTAFIN 631 643	exposiciones
+T17	GC 668 680	cumplimiento
+T18	CONTAFIN 713 734	indicadores de riesgo
+T19	EST 747 795	Sistema integral de control y gestión de riesgos
+T20	EST 800 848	Política general de control y gestión de riesgos
+T22	GC 876 901	Consejo de Administración
+T24	EST 1059 1081	objetivos estratégicos
+T25	CONTAFIN 1090 1101	volatilidad
+T26	CONTAFIN 1144 1153	garantías
+T30	EST 1242 1259	Grupos de interés
+T31	CONTAFIN 1302 1320	solidez financiera
+T33	EST 1355 1403	Sistema integral de control y gestión de riesgos
+T34	GC 1432 1449	Comité de Riesgos
+T35	GC 1459 1479	Dirección de Riesgos
+T40	GC 1640 1660	Dirección de Riesgos
+T41	CONTAFIN 1678 1695	Riesgo de crédito
+T42	CONTAFIN 1722 1734	contrapartes
+T43	CONTAFIN 1821 1841	pérdidas crediticias
+T45	CONTAFIN 1856 1873	Riesgo de mercado
+T46	CONTAFIN 1958 1969	volatilidad
+T49	EST 2022 2048	Enterprise Risk Management
+T50	EST 2051 2054	ERM
+T53	GC 2280 2287	comités
+T54	GC 2290 2300	comisiones
+T55	CONTAFIN 2303 2315	Instrumentos
+T56	EST 2353 2375	indicadores de riesgos
+T57	CONTAFIN 2380 2398	Informe trimestral
+T59	EST 2453 2471	riesgos emergentes
+T60	EST 2502 2520	riesgo operacional
+T61	EST 2548 2569	unidades corporativas
+T62	RSC 2614 2628	Ciberseguridad
+T64	EST 2644 2662	gestión de riesgos
+T69	GC 2818 2832	alta dirección
+T70	GC 2838 2845	Consejo
+T73	EST 2902 2950	Política general de control y gestión de riesgos
+T77	GC 3155 3180	Consejo de Administración
+T79	CONTAFIN 3231 3242	indicadores
+T85	RSC 3393 3412	energías renovables
+T94	EST 3632 3662	Política de riesgo operacional
+T95	CONTAFIN 3670 3692	operaciones de mercado
+T96	CONTAFIN 3721 3744	Política de inversiones
+T99	CONTAFIN 3803 3826	Política de autocartera
+T102	CONTAFIN 3873 3893	sociedades cotizadas
+T103	EST 3898 3935	Política marco de riesgo reputacional
+T107	EST 4067 4088	sociedades subholding
+T108	EST 4101 4121	políticas de riesgos
+T110	EST 4206 4223	límites de riesgo
+T114	CONTAFIN 4359 4374	participaciones
+T115	EST 4395 4401	socios
+T116	EST 4486 4506	políticas de riesgos
+T123	GC 4777 4808	Riesgos de gobierno corporativo
+T124	RSC 4843 4857	interés social
+T126	CONTAFIN 4890 4908	Riesgos de mercado
+T127	CONTAFIN 4910 4920	exposición
+T128	CONTAFIN 4923 4936	volatilidades
+T130	CONTAFIN 5015 5029	tipo de cambio
+T131	CONTAFIN 5031 5046	tipo de interés
+T132	CONTAFIN 5054 5072	Riesgos de crédito
+T134	CONTAFIN 5123 5134	contraparte
+T137	EST 5184 5202	Riesgos de negocio
+T142	CONTAFIN 5465 5476	retribución
+T145	EST 5549 5570	Riesgos operacionales
+T146	CONTAFIN 5634 5653	pérdidas económicas
+T147	RSC 5739 5755	cambio climático
+T148	EST 5763 5785	Riesgos reputacionales
+T151	EST 5910 5927	Grupos de interés
+T6	CONTAFIN 3479 3499	Negocio inmobiliario
+T8	CONTAFIN 4321 4352	sociedades subholding cotizadas
+T10	EST 4595 4613	riesgos inherentes
+T1	EST 3502 3535	Políticas de riesgos corporativas
+T12	CONTAFIN 3540 3581	Política de riesgo de crédito corporativa
+T13	CONTAFIN 3586 3627	Política de riesgo de mercado corporativa
+T14	CONTAFIN 3697 3716	Política de seguros
+T16	CONTAFIN 3749 3798	Política de financiación y de riesgos financieros
+T21	CONTAFIN 3831 3869	Política de riesgos de participaciones
+T23	CONTAFIN 3940 3959	Política de compras
+T27	EST 4010 4047	Política de riesgos de ciberseguridad
+T28	CONTAFIN 5339 5371	Riesgos regulatorios y políticos
+T29	RSC 5508 5530	normativas ambientales
+T32	CONTAFIN 4990 5013	commodities energéticas
+T36	CONTAFIN 5089 5115	incumplimiento contractual
+T37	CONTAFIN 5148 5181	pérdidas económicas o financieras
+T38	CONTAFIN 987 1005	riesgo-oportunidad
+T39	CONTAFIN 2402 2415	riesgos clave

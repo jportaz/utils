@@ -1,0 +1,175 @@
+T4	EST 476 500	Misión, visión y valores
+T6	CONTAFIN 571 580	proveedor
+T8	CONTAFIN 785 793	rentable
+T9	EST 818 825	partner
+T11	CONTAFIN 951 964	valor añadido
+T16	RSC 1205 1218	transparencia
+T17	RSC 1291 1305	medio ambiente
+T19	CONTAFIN 1422 1435	valor añadido
+T22	RSC 1587 1601	medio ambiente
+T23	RSC 1650 1675	responsabilidad ambiental
+T25	EST 1720 1737	grupos de interés
+T26	EST 1815 1830	cadena de valor
+T31	RSC 2319 2333	medio ambiente
+T32	RSC 2468 2481	transparencia
+T37	EST 2758 2775	grupos de interés
+T38	EST 2946 2968	POLÍTICAS CORPORATIVAS
+T40	EST 3009 3031	Políticas Corporativas
+T41	GC 3109 3134	Consejo de Administración
+T42	GC 3197 3209	cumplimiento
+T44	RSC 3256 3290	Responsabilidad Social Corporativa
+T45	RSC 3292 3295	RSC
+T46	RSC 3298 3332	Responsabilidad Social Corporativa
+T47	CONTAFIN 3334 3341	Compras
+T49	RSC 3355 3358	RSC
+T50	CONTAFIN 3366 3377	proveedores
+T51	RSC 3379 3395	Derechos Humanos
+T52	CONTAFIN 3398 3412	Anticorrupción
+T53	CONTAFIN 3415 3421	fraude
+T54	RSC 3423 3436	Acción social
+T55	GC 3441 3454	Buen Gobierno
+T56	CONTAFIN 3456 3461	SCIIF
+T57	CONTAFIN 3463 3518	Sistema de Control Interno de la Información Financiera
+T58	EST 3521 3549	Control y gestión de riesgos
+T59	GC 3552 3572	Gobierno corporativo
+T61	CONTAFIN 3608 3623	Política fiscal
+T63	GC 3659 3670	accionistas
+T65	CONTAFIN 3689 3713	Política de remuneración
+T66	GC 3717 3727	accionista
+T67	EST 3730 3765	Política de selección de candidatos
+T68	GC 3768 3777	consejero
+T69	GC 3797 3822	Consejo de Administración
+T71	CONTAFIN 3869 3887	auditor de cuentas
+T72	EST 3894 3911	Modelo de negocio
+T74	EST 3951 3972	centros de producción
+T75	CONTAFIN 4054 4063	Al cierre
+T79	CONTAFIN 4308 4327	cartera de clientes
+T82	CONTAFIN 4515 4524	solvencia
+T84	CONTAFIN 4583 4594	facturación
+T87	CONTAFIN 4761 4767	crisis
+T89	CONTAFIN 4833 4839	ventas
+T90	CONTAFIN 5045 5053	invertir
+T91	CONTAFIN 5187 5208	Disciplina financiera
+T93	CONTAFIN 5248 5259	inversiones
+T94	CONTAFIN 5305 5316	inversiones
+T98	CONTAFIN 5446 5464	generación de caja
+T99	CONTAFIN 5485 5491	EBITDA
+T104	GC 5836 5852	Equipo Directivo
+T106	EST 5983 6000	grupos de interés
+T107	EST 6032 6049	grupos de interés
+T110	GC 6160 6171	accionistas
+T112	EST 6198 6215	socios de negocio
+T113	CONTAFIN 6217 6228	proveedores
+T115	CONTAFIN 6240 6265	Administraciones Públicas
+T117	EST 6311 6328	GRUPOS DE INTERÉS
+T119	GC 6349 6360	accionistas
+T122	CONTAFIN 6410 6419	dividendo
+T123	CONTAFIN 6478 6497	comunidad inversora
+T126	EST 6682 6697	entorno laboral
+T128	EST 6731 6752	negociación colectiva
+T129	RSC 6781 6797	derechos humanos
+T132	CONTAFIN 6992 7002	suministro
+T136	GC 7074 7085	Accionistas
+T138	EST 7112 7129	Socios de negocio
+T139	EST 7135 7156	alianzas estratégicas
+T143	RSC 7382 7395	transparencia
+T148	CONTAFIN 7597 7605	Financia
+T149	RSC 7606 7623	acciones sociales
+T150	RSC 7747 7761	medio ambiente
+T153	RSC 7931 7944	transparencia
+T156	CONTAFIN 8155 8164	inversión
+T158	CONTAFIN 8197 8208	Proveedores
+T160	CONTAFIN 8220 8245	Administraciones Públicas
+T161	CONTAFIN 8255 8268	Financiadores
+T162	EST 8290 8307	grupos de interés
+T167	EST 8630 8646	Recursos Humanos
+T169	CONTAFIN 8705 8716	Proveedores
+T172	CONTAFIN 8812 8822	Inversores
+T173	GC 8825 8836	Accionistas
+T174	CONTAFIN 8857 8865	Circular
+T175	CONTAFIN 8879 8919	Comisión Nacional del Mercado de Valores
+T176	EST 8961 8977	grupo de interés
+T178	GC 9213 9224	canal ético
+T179	GC 9262 9274	Cumplimiento
+T181	CONTAFIN 9415 9430	incumplimientos
+T183	GC 9515 9533	Código de Conducta
+T184	GC 9586 9597	Canal ético
+T185	RSC 9599 9623	Análisis de materialidad
+T186	CONTAFIN 9657 9670	Informe Anual
+T187	EST 9716 9733	grupos de interés
+T188	GC 9783 9796	buen gobierno
+T189	RSC 9866 9890	Análisis de Materialidad
+T192	RSC 10156 10180	análisis de materialidad
+T194	RSC 10280 10283	ASG
+T195	EST 10381 10398	grupos de interés
+T196	RSC 10410 10413	ASG
+T198	RSC 10576 10610	Objetivos de Desarrollo Sostenible
+T199	RSC 10612 10615	ODS
+T200	CONTAFIN 10652 10661	analistas
+T201	RSC 10665 10668	RSC
+T202	RSC 10703 10717	Estándares GRI
+T203	EST 10763 10779	Plan Estratégico
+T204	GC 10794 10812	Código de Conducta
+T205	CONTAFIN 10831 10845	Anticorrupción
+T206	CONTAFIN 10848 10854	Fraude
+T207	EST 10860 10888	Control y Gestión de Riesgos
+T208	EST 10923 10957	gestión de la cadena de suministro
+T213	CONTAFIN 11079 11093	contabilizaron
+T214	EST 11181 11198	grupos de interés
+T215	GC 11301 11311	directivos
+T216	GC 11314 11322	gerentes
+T217	GC 11374 11399	Comité Transversal de RSC
+T220	RSC 11665 11687	matriz de materialidad
+T221	RSC 11822 11825	RSC
+T222	GC 11921 11931	directivos
+T223	GC 11934 11942	gerentes
+T225	EST 12225 12242	grupos de interés
+T226	GC 12244 12255	accionistas
+T228	EST 12267 12284	socios de negocio
+T229	CONTAFIN 12289 12309	cadena de suministro
+T231	CONTAFIN 12324 12346	Administración Pública
+T232	RSC 12439 12463	análisis de materialidad
+T237	EST 12813 12831	gestión de riesgos
+T238	EST 12836 12870	gestión de la cadena de suministro
+T239	RSC 12876 12892	derechos humanos
+T242	RSC 13345 13356	marco ético
+T244	EST 13430 13447	grupos de interés
+T245	GC 13536 13571	cumplimiento del Código de Conducta
+T246	GC 13608 13619	Canal Ético
+T247	CONTAFIN 13700 13714	incumplimiento
+T248	GC 13722 13740	pautas de conducta
+T249	RSC 13801 13816	indicadores GRI
+T250	CONTAFIN 13863 13876	Informe Anual
+T253	RSC 13904 13926	matriz de materialidad
+T1	GC 10057 10078	experto independiente
+T2	CONTAFIN 3824 3848	Política de contratación
+T3	CONTAFIN 4457 4462	TIER1
+T5	CONTAFIN 6295 6308	financiadores
+T7	RSC 12536 12549	criterios ASG
+T12	CONTAFIN 8187 8194	mercado
+T10	CONTAFIN 3575 3587	Remuneración
+T13	GC 3595 3605	consejeros
+T14	EST 5494 5517	Gestión descentralizada
+T15	CONTAFIN 5422 5443	retornos de inversión
+T18	RSC 8325 8379	Plan Estratégico de Responsabilidad Social Corporativa
+T20	RSC 12485 12534	aspectos ambientales, sociales y de buen gobierno
+T21	RSC 1882 1896	eco innovación
+T24	RSC 1899 1909	eco diseño
+T27	EST 2351 2369	enfoque preventivo
+T28	EST 3913 3930	Multilocalización
+T29	EST 4278 4303	Diversificación comercial
+T30	CONTAFIN 4472 4498	porfolio muy diversificado
+T33	EST 4843 4858	Multitecnología
+T34	CONTAFIN 5539 5553	mercado global
+T35	EST 5613 5645	gestión de forma descentralizada
+T36	GC 5724 5740	Área Corporativa
+T39	GC 5748 5764	Servicios de Red
+T43	RSC 6540 6552	empleo digno
+T48	CONTAFIN 7299 7312	mercado local
+T60	CONTAFIN 7429 7448	condiciones de pago
+T62	RSC 7641 7666	colectivos desfavorecidos
+T64	CONTAFIN 7781 7797	Administraciones
+T70	GC 8483 8498	web corporativa
+T73	GC 9554 9569	Web Corporativa
+T76	EST 8668 8689	Portal de Proveedores
+T77	RSC 12897 12910	salud laboral

@@ -1,0 +1,99 @@
+5.3 Riesgos
+
+Compromiso del Consejo de Administración y de la alta dirección
+
+El Consejo de Administración y la alta dirección de Iberdrola tienen un fuerte compromiso e implicación en la gestión de los riesgos del grupo:
+
+• Ex-ante: revisando y aprobando anualmente el nivel de tolerancia al riesgo aceptable, a través de las políticas y límites de riesgos, que establecen de manera cualitativa y cuantitativa el apetito al riesgo aceptado a nivel de grupo y en cada uno de los principales negocios y funciones corporativas.
+
+• Ex-post: realizando un seguimiento periódico de los riesgos y amenazas significativas y las distintas exposiciones del grupo, así como del cumplimiento de las políticas, los límites e indicadores de riesgo aprobados.
+
+Sistema integral de control y gestión de riesgos
+
+La Política general de control y gestión de riesgos del grupo, aprobada por el Consejo de Administración, establece los mecanismos y principios básicos para una adecuada gestión del binomio riesgo-oportunidad, con un nivel de riesgo que permita:
+
+• Alcanzar los objetivos estratégicos con una volatilidad controlada.
+
+• Aportar el máximo nivel de garantías.
+
+• Proteger los resultados y la reputación del grupo.
+
+• Defender los intereses de los Grupos de interés y garantizar la estabilidad empresarial y solidez financiera del grupo.
+
+A nivel operativo, el Sistema integral de control y gestión de riesgos se estructura en torno a un Comité de Riesgos y en una Dirección de Riesgos, independiente y especializada, que analiza y cuantifica los riesgos presentes en los principales negocios y funciones corporativas del grupo.
+
+Funciones de la Dirección de Riesgos
+
+Gestión activa
+
+Riesgo de crédito. Análisis y aprobación de contrapartes y límites, y/o el establecimiento de criterios de admisión al objeto de minimizar las pérdidas crediticias en el grupo.
+
+Riesgo de mercado. Análisis y aprobación de límites detallados con el fin de acotar los efectos de la volatilidad de los mercados en los que opera el grupo.
+
+Enfoque Enterprise Risk Management ("ERM")
+
+Asegurar que existen los mecanismos para que todos los riesgos relevantes del grupo están, en todo momento, adecuadamente identificados, medidos, gestionados y controlados, y que se informan periódicamente a los distintos comités y comisiones.
+
+Instrumentos e informes:
+
+• Políticas y límites e indicadores de riesgos.
+
+• Informe trimestral de riesgos clave.
+
+• Seguimiento continuo y detección riesgos emergentes.
+
+La gestión centralizada del riesgo operacional se realiza a través de las unidades corporativas de Seguros, Tecnologías de la información y Ciberseguridad del grupo.
+
+La gestión de riesgos en el grupo Iberdrola se fundamenta en la anticipación, la independencia, el compromiso con los objetivos de los negocios del grupo y la implicación de la alta dirección y el Consejo.
+
+Políticas y límites de riesgos del grupo Iberdrola La Política general de control y gestión de riesgos se desarrolla y complementa con las siguientes políticas específicas que se establecen en relación con determinados riesgos, funciones corporativas o negocios del grupo, que también aprueba anualmente el Consejo de Administración de la cabecera del grupo y que incluyen límites e indicadores que son posteriormente monitorizados: Políticas específicas de riesgos de los negocios:
+
+• Negocios liberalizados del grupo Iberdrola.
+
+• Negocios de energías renovables del grupo Iberdrola.
+
+• Negocios de redes del grupo Iberdrola.
+
+• Negocio inmobiliario.
+
+Políticas de riesgos corporativas:
+
+• Política de riesgo de crédito corporativa.
+
+• Política de riesgo de mercado corporativa.
+
+• Política de riesgo operacional en las operaciones de mercado.
+
+• Política de seguros.
+
+• Política de inversiones.
+
+• Política de financiación y de riesgos financieros.
+
+• Política de autocartera.
+
+• Política de riesgos de participaciones en sociedades cotizadas.
+
+• Política marco de riesgo reputacional.
+
+• Política de compras.
+
+• Política de tecnologías de la información.
+
+• Política de riesgos de ciberseguridad. Corresponde a las sociedades subholding adoptar las políticas de riesgos del grupo, y concretar la aplicación de las mismas, aprobando las directrices sobre límites de riesgo específicos, atendiendo a las características y singularidades de los negocios en cada país. Las sociedades subholding cotizadas o con participaciones relevantes de otros socios, al amparo de su propio marco especial de autonomía reforzada, aprueban sus propias políticas de riesgos.
+
+Principales factores de riesgos del grupo Iberdrola El grupo está expuesto a diversos riesgos inherentes a los distintos países, sectores y mercados en los que opera, que pueden impedirle lograr sus objetivos y ejecutar sus estrategias. Dichos riesgos se agrupan en:
+
+Riesgos de gobierno corporativo: aquellos que ponen en peligro el interés social y la estrategia de la empresa.
+
+Riesgos de mercado: exposición a volatilidades en variables como precios de la electricidad y otras commodities energéticas, tipo de cambio, tipo de interés, etc.
+
+Riesgos de crédito: posibilidad de incumplimiento contractual de una contraparte, ocasionando pérdidas económicas o financieras.
+
+Riesgos de negocio: derivado de la incertidumbre al comportamiento de variables intrínsecas al negocio, características de la demanda, climatología, etc.
+
+Riesgos regulatorios y políticos: proveniente de cambios normativos establecidos por los reguladores, que puedan afectar a la retribución de los negocios regulados, las normativas ambientales o fiscales, etc.
+
+Riesgos operacionales, tecnológicos, medioambientales, sociales y legales: serán las pérdidas económicas ocasionadas por procesos internos inadecuados, fallos tecnológicos, errores humanos, cambio climático, etc.
+
+Riesgos reputacionales: son los potenciales impactos negativos en la compañía derivados de un comportamiento por debajo de las expectativas de sus Grupos de interés.

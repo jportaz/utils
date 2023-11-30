@@ -1,0 +1,144 @@
+T0	EST 5 23	Gestión de riesgos
+T1	EST 100 129	Sistema de Gestión de Riesgos
+T2	EST 144 147	SGR
+T4	GC 269 281	cumplimiento
+T5	EST 357 360	SGR
+T7	GC 477 502	Consejo de Administración
+T8	GC 523 559	Comisión de Auditoría y Cumplimiento
+T10	EST 606 609	SGR
+T11	EST 674 696	riesgos significativos
+T12	EST 712 725	operacionales
+T13	CONTAFIN 727 738	financieros
+T14	CONTAFIN 762 817	Sistema de Control Interno de la Información Financiera
+T15	CONTAFIN 819 824	SCIIF
+T16	RSC 829 832	ASG
+T18	GC 990 1015	Consejo de Administración
+T19	CONTAFIN 1059 1066	apetito
+T21	GC 1148 1162	Alta Dirección
+T22	GC 1168 1187	Equipo de Dirección
+T23	EST 1202 1227	planificación estratégica
+T25	CONTAFIN 1419 1438	aportación de valor
+T26	EST 1507 1510	SGR
+T30	RSC 1684 1709	Comunicación transparente
+T33	EST 1866 1882	Plan Estratégico
+T34	EST 1961 1978	modelo de gestión
+T35	EST 2055 2072	modelo de negocio
+T36	EST 2078 2097	cultura corporativa
+T37	CONTAFIN 2238 2251	consolidación
+T38	CONTAFIN 2277 2283	activo
+T39	GC 2458 2493	Cumplimiento del Código de Conducta
+T41	GC 2569 2583	incumplimiento
+T42	GC 2591 2609	pautas de conducta
+T44	GC 2749 2767	Código de Conducta
+T45	EST 3197 3211	Ciberseguridad
+T46	EST 3246 3269	sistemas de información
+T48	EST 3427 3468	Reglamento General de Protección de Datos
+T49	CONTAFIN 3529 3543	incumplimiento
+T51	CONTAFIN 3593 3614	resultados económicos
+T53	EST 3714 3737	sistemas de información
+T57	CONTAFIN 4166 4176	ejercicios
+T59	CONTAFIN 4209 4219	inventario
+T60	EST 4282 4303	evolución del negocio
+T62	EST 4361 4380	Riesgo reputacional
+T63	EST 4403 4420	grupos de interés
+T64	CONTAFIN 4519 4536	activo inmaterial
+T65	EST 4696 4705	Marketing
+T66	EST 4708 4720	Comunicación
+T67	EST 4774 4791	grupos de interés
+T68	EST 4822 4837	riesgo asociado
+T69	EST 4896 4915	Planes de respuesta
+T72	EST 5059 5075	plan de sucesión
+T76	EST 5350 5354	RRHH
+T77	GC 5391 5405	Alta Dirección
+T81	EST 5721 5740	Planes de formación
+T84	EST 5929 5947	Planes de sucesión
+T85	EST 6033 6055	objetivos estratégicos
+T87	EST 6283 6286	PDP
+T88	GC 6293 6303	directivos
+T89	GC 6306 6324	mandos intermedios
+T90	EST 6344 6365	Divisiones de Negocio
+T91	GC 6368 6403	Cumplimiento del Código de Conducta
+T93	GC 6477 6495	Código de Conducta
+T94	CONTAFIN 6529 6538	ejercicio
+T95	RSC 6596 6599	RSC
+T96	GC 6620 6632	cumplimiento
+T97	GC 6688 6699	Canal Ético
+T98	GC 6729 6775	Comisión de Responsabilidad Social Corporativa
+T99	GC 6809 6830	dirección corporativa
+T100	EST 6855 6871	Recursos Humanos
+T101	GC 6873 6885	Cumplimiento
+T102	EST 6888 6905	Asesoría Jurídica
+T104	GC 6998 7012	incumplimiento
+T105	GC 7020 7038	pautas de conducta
+T106	EST 7111 7128	grupos de interés
+T107	RSC 7173 7176	RSC
+T109	EST 7542 7558	Plan Estratégico
+T110	EST 7571 7585	Ciberseguridad
+T111	EST 7590 7604	ciberseguridad
+T112	CONTAFIN 7624 7645	protección de activos
+T114	EST 7786 7809	sistemas de información
+T118	CONTAFIN 8034 8041	activos
+T120	EST 8262 8274	trazabilidad
+T123	EST 8411 8425	CIBERSEGURIDAD
+T126	GC 8606 8622	equipo directivo
+T127	EST 8675 8691	mapa de procesos
+T131	EST 9034 9049	plan de gestión
+T132	EST 9124 9143	análisis de riesgos
+T134	RSC 9285 9310	impactos medioambientales
+T136	GC 9389 9407	cumplimiento legal
+T137	CONTAFIN 9416 9455	MODELO DE PREVENCIÓN DE RIESGOS PENALES
+T138	CONTAFIN 9468 9477	ejercicio
+T140	CONTAFIN 9504 9543	Modelo de Prevención de Riesgos Penales
+T143	GC 9782 9794	cumplimiento
+T144	CONTAFIN 9799 9838	Modelo de Prevención de Riesgos Penales
+T146	CONTAFIN 9911 9932	blanqueo de capitales
+T147	GC 9963 9981	Código de Conducta
+T148	EST 10005 10027	políticas corporativas
+T149	CONTAFIN 10044 10055	INDICADORES
+T150	EST 10093 10109	Plan Estratégico
+T151	CONTAFIN 10164 10175	indicadores
+T156	RSC 10330 10333	ASG
+T158	CONTAFIN 10364 10375	indicadores
+T159	EST 10407 10422	Risk Management
+T161	EST 10458 10485	SISTEMAS DE CONTROL INTERNO
+T162	EST 10490 10516	Sistema de control interno
+T163	GC 10607 10619	Cumplimiento
+T164	GC 10621 10631	Compliance
+T165	EST 10691 10717	sistema de control interno
+T166	GC 10743 10755	cumplimiento
+T167	EST 10864 10879	riesgos legales
+T168	CONTAFIN 10884 10894	corrupción
+T169	CONTAFIN 10897 10903	fraude
+T170	CONTAFIN 10930 10969	Modelo de Prevención de Riesgos Penales
+T171	RSC 11009 11020	marco ético
+T173	GC 11141 11153	cumplimiento
+T174	GC 11290 11302	cumplimiento
+T177	EST 11565 11577	trazabilidad
+T178	GC 11644 11656	cumplimiento
+T180	CONTAFIN 11702 11707	SCIIF
+T181	CONTAFIN 11813 11830	Auditoría Interna
+T183	GC 11871 11907	Comisión de Auditoría y Cumplimiento
+T185	EST 11941 11967	sistema de control interno
+T187	EST 12053 12074	riesgos operacionales
+T188	EST 12107 12123	Mapa de Procesos
+T189	RSC 834 871	Ambientales, Sociales y de Gobernanza
+T6	EST 385 437	Política de Control y Gestión de Riesgos corporativa
+T9	EST 698 710	estratégicos
+T17	CONTAFIN 1069 1079	tolerancia
+T27	EST 3889 3925	Plan de sucesión para personal clave
+T28	EST 3928 3962	Política de formación y de cantera
+T31	CONTAFIN 5534 5564	Planes de contratación anuales
+T32	EST 6251 6281	Plan de Desarrollo Profesional
+T40	CONTAFIN 10203 10216	riesgos SCIIF
+T43	CONTAFIN 10235 10282	riesgos de cumplimiento normativo penal, fiscal
+T47	CONTAFIN 11683 11700	ámbito financiero
+T3	EST 5626 5645	División de Negocio
+T20	CONTAFIN 5126 5161	crecimiento (orgánico e inorgánico)
+T24	EST 1813 1847	Gestión del crecimiento inorgánico
+T29	RSC 2337 2358	condiciones laborales
+T50	EST 2423 2437	atraer talento
+T52	GC 5084 5098	personal clave
+T54	EST 5648 5719	Planes de seguimiento personalizado de los perfiles con alto potencial.
+T55	EST 8288 8320	procesos de gestión de seguridad
+T56	EST 9181 9216	Análisis Modal de Fallos y Efectos)
+T58	EST 9313 9355	Evaluación de riesgos de seguridad y salud

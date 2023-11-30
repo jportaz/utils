@@ -1,0 +1,131 @@
+T2	EST 120 151	políticas de Gestión de Riesgos
+T3	EST 248 266	marco de actuación
+T6	GC 373 398	Consejo de Administración
+T9	EST 509 529	objetivos de negocio
+T10	CONTAFIN 534 546	desviaciones
+T12	CONTAFIN 675 692	apetito de riesgo
+T15	GC 823 842	órganos de gobierno
+T16	GC 845 854	dirección
+T19	EST 941 959	gestión de riesgos
+T21	CONTAFIN 1005 1016	indicadores
+T22	CONTAFIN 1019 1025	ratios
+T23	CONTAFIN 1029 1049	exposición al riesgo
+T24	EST 1061 1087	Área de Gestión de Riesgos
+T26	EST 1157 1175	gestión de riesgos
+T27	EST 1249 1264	áreas de riesgo
+T28	GC 1342 1361	órganos de gobierno
+T31	CONTAFIN 1519 1538	recursos de capital
+T32	CONTAFIN 1611 1623	cumplimiento
+T33	CONTAFIN 1653 1670	apetito de riesgo
+T34	CONTAFIN 1676 1683	capital
+T35	CONTAFIN 1762 1774	presupuestos
+T36	CONTAFIN 1779 1788	ejercicio
+T38	CONTAFIN 1908 1920	cumplimiento
+T39	CONTAFIN 1955 1972	apetito de riesgo
+T43	RSC 2045 2059	sostenibilidad
+T44	CONTAFIN 2121 2141	desarrollo económico
+T45	RSC 2152 2161	ambiental
+T46	EST 2176 2194	gestión de riesgos
+T47	EST 2200 2224	oportunidades de negocio
+T49	RSC 2287 2290	ASG
+T50	RSC 2322 2343	desarrollo sostenible
+T51	EST 2452 2471	riesgos potenciales
+T52	EST 2559 2576	grupos de interés
+T53	EST 2598 2615	modelo de negocio
+T55	RSC 2709 2723	sostenibilidad
+T58	EST 2765 2788	desarrollo de productos
+T64	CONTAFIN 2976 2987	suscripción
+T65	CONTAFIN 2989 2998	inversión
+T68	RSC 3037 3051	sostenibilidad
+T69	RSC 3053 3067	medio ambiente
+T70	EST 3150 3167	grupos de interés
+T77	CONTAFIN 3371 3383	aseguradoras
+T78	RSC 3430 3446	cambio climático
+T82	CONTAFIN 3755 3761	seguro
+T86	RSC 3883 3899	cambio climático
+T88	RSC 3936 3952	cambio climático
+T89	RSC 3995 4009	sostenibilidad
+T91	CONTAFIN 4144 4153	previsión
+T93	CONTAFIN 4203 4211	pérdidas
+T95	CONTAFIN 4318 4335	impacto económico
+T110	EST 5187 5209	oportunidad de negocio
+T113	CONTAFIN 5371 5378	cartera
+T116	CONTAFIN 5463 5469	primas
+T117	CONTAFIN 5513 5518	renta
+T118	RSC 5556 5570	medioambiental
+T120	RSC 5645 5673	Gestión del riesgo ambiental
+T122	CONTAFIN 5708 5729	responsabilidad civil
+T123	RSC 5732 5746	medioambiental
+T125	EST 5805 5823	control de riesgos
+T128	RSC 5933 5954	proyectos sostenibles
+T129	RSC 5958 5977	energías renovables
+T131	RSC 6051 6068	ahorro energético
+T133	RSC 6098 6118	protección ambiental
+T134	CONTAFIN 6124 6142	ahorro de recursos
+T135	RSC 6145 6178	Inversión socialmente responsable
+T136	RSC 6223 6256	inversión socialmente responsable
+T137	CONTAFIN 6291 6302	inversiones
+T140	RSC 6425 6428	ASG
+T141	RSC 6431 6434	ESG
+T142	CONTAFIN 6493 6511	fondo de Inversión
+T143	CONTAFIN 6522 6540	fondo de pensiones
+T148	CONTAFIN 6705 6713	asesoría
+T149	CONTAFIN 6759 6777	gestión de activos
+T150	RSC 6804 6825	inversión responsable
+T151	CONTAFIN 6846 6859	participación
+T153	CONTAFIN 6942 6951	invertirá
+T154	CONTAFIN 6955 6963	acciones
+T155	CONTAFIN 6966 6987	títulos de renta fija
+T158	RSC 7049 7052	ESG
+T159	CONTAFIN 7114 7121	capital
+T160	CONTAFIN 7126 7131	fondo
+T161	CONTAFIN 7216 7226	inversores
+T162	CONTAFIN 7260 7277	plan de pensiones
+T166	CONTAFIN 7357 7362	fondo
+T170	GC 7469 7494	buen gobierno corporativo
+T172	CONTAFIN 7525 7530	fondo
+T173	EST 7562 7574	comercializa
+T176	RSC 7666 7694	creación de valor sostenible
+T186	CONTAFIN 8088 8095	cartera
+T188	GC 8155 8176	Comité de Inversiones
+T189	GC 8188 8205	Comité de riesgos
+T190	GC 8212 8219	gestora
+T191	GC 8270 8284	asesor externo
+T196	CONTAFIN 8399 8402	ISR
+T202	CONTAFIN 8716 8722	fondos
+T204	CONTAFIN 8804 8813	inversión
+T1	RSC 1975 2034	Riesgos y oportunidades Ambientales, Sociales y de Gobierno
+T5	RSC 2036 2039	ASG
+T7	RSC 2237 2285	cuestiones ambientales, sociales y de gobernanza
+T8	RSC 2738 2749	riesgos ASG
+T13	EST 2882 2904	gestión de riesgos ASG
+T17	RSC 3183 3194	riesgos ASG
+T20	RSC 3486 3537	Task Force on Climate-related Financial Disclosures
+T25	RSC 3539 3543	TFCD
+T29	CONTAFIN 7311 7333	productos de inversión
+T30	RSC 8546 8552	CEESGA
+T37	RSC 8554 8597	Environmental Social and Governance Analyst
+T40	RSC 6376 6423	criterios ambientales, sociales y de gobernanza
+T41	RSC 7713 7748	Principios de Inversión Responsable
+T42	RSC 7750 7753	PRI
+T48	RSC 7826 7829	PRI
+T54	RSC 8746 8759	criterios ASG
+T14	EST 4512 4533	Riesgos Catastróficos
+T18	CONTAFIN 7892 7945	Plan Anual de Inversiones mobiliarias e inmobiliarias
+T56	GC 8450 8496	Director General de Corporativo de Inversiones
+T4	EST 3231 3260	procesos de gestión y control
+T11	RSC 3830 3854	economía baja en carbono
+T57	EST 4012 4043	Riesgo de catástrofes naturales
+T60	EST 4445 4477	Área de Riesgos de la Naturaleza
+T61	CONTAFIN 4876 4899	exposición catastrófica
+T62	CONTAFIN 5442 5460	coberturas básicas
+T63	CONTAFIN 5687 5706	coberturas de daños
+T66	CONTAFIN 7445 7463	inversión en valor
+T71	CONTAFIN 7850 7872	criterios de inversión
+T72	RSC 8069 8081	análisis ESG
+T73	RSC 8118 8130	análisis ESG
+T74	RSC 8288 8315	Directora de Sostenibilidad
+T59	RSC 3073 3097	gestión de la reputación
+T67	CONTAFIN 6547 6585	Entidad de Previsión Social Voluntaria
+T75	CONTAFIN 6587 6591	EPSV
+T76	CONTAFIN 7283 7287	EPSV
