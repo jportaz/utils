@@ -2,8 +2,24 @@ from datasets import load_dataset
 from transformers import AutoTokenizer
 from transformers import AutoModelForTokenClassification
 from transformers import DataCollatorForTokenClassification
+from transformers import TrainingArguments
 from transformers import Trainer
 import evaluate
+import numpy as np
+import os
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--model", default="bert-base-multilingual-cased")
+parser.add_argument("--train_dataset", required=True)
+parser.add_argument("--eval_dataset")
+parser.add_argument("--num_train_epochs", type=int, default=20)
+parser.add_argument("--max_seq_length", type=int, default=512)
+parser.add_argument("--label_all_tokens", action="store_true")
+args = parser.parse_args()
+
+#os.environ["WANDB_DISABLED"] = "true"
+#os.environ["CUDA_LAUNCH_BLOCKING"] = "1"
 
 def get_label_list(labels):
     unique_labels = set()
@@ -14,19 +30,19 @@ def get_label_list(labels):
     return label_list
 
 padding = False #"max_length" if data_args.pad_to_max_length else False
-max_seq_length = 512
-label_all_tokens = False
 
 def tokenize_and_align_labels(examples):
-    tokenized_inputs = tokenizer(
-        examples["words"],
-        padding=padding,
-        truncation=True,
-        max_length=max_seq_length,
-        # We use this argument because the texts in our dataset are lists of words (with a label for each word).
-        is_split_into_words=True,
-    )
+    tokenized_inputs = tokenizer(examples["words"],
+                                 padding=padding,
+                                 truncation=True,
+                                 max_length=args.max_seq_length,
+                                 # We use this argument because the
+                                 # texts in our dataset are lists of
+                                 # words (with a label for each word).
+                                 is_split_into_words=True)
+
     labels = []
+
     for i, label in enumerate(examples["tags"]):
         word_ids = tokenized_inputs.word_ids(batch_index=i)
         previous_word_idx = None
@@ -38,21 +54,23 @@ def tokenize_and_align_labels(examples):
                 label_ids.append(-100)
             # We set the label for the first token of each word.
             elif word_idx != previous_word_idx:
-                label_ids.append(label_to_id[label[word_idx]])
+                label_ids.append(label2id[label[word_idx]])
             # For the other tokens in a word, we set the label to either the current label or -100, depending on
             # the label_all_tokens flag.
             else:
-                if label_all_tokens:
-                    label_ids.append(b_to_i_label[label_to_id[label[word_idx]]])
+                if args.label_all_tokens:
+                    label_ids.append(b_to_i_label[label2id[label[word_idx]]])
                 else:
                     label_ids.append(-100)
             previous_word_idx = word_idx
 
         labels.append(label_ids)
+
     tokenized_inputs["labels"] = labels
     return tokenized_inputs
 
 # Metrics
+
 metric = evaluate.load("seqeval")
 
 def compute_metrics(p):
@@ -86,29 +104,27 @@ def compute_metrics(p):
         "accuracy": results["overall_accuracy"],
     }
 
-model_name = 'bert-base-multilingual-cased'
-
-tokenizer = AutoTokenizer.from_pretrained(model_name)
-model = AutoModelForTokenClassification.from_pretrained(model_name)
-
-raw_datasets = load_dataset("json", data_files="/tmp/jj")
+raw_datasets = load_dataset("json", data_files={"train": args.train_dataset, "valid": args.eval_dataset})
 
 label_list = get_label_list(raw_datasets["train"]["tags"])
-label_to_id = {l: i for i, l in enumerate(label_list)}
+label2id = {l: i for i, l in enumerate(label_list)}
+id2label = {i: l for l, i in label2id.items()}
 num_labels = len(label_list)
 
-print(label_list)
 print(raw_datasets)
 print(raw_datasets["train"].features["tags"].feature)
 
-#print(tokenize_and_align_labels([dataset["train"][0]]))
+# Model
+
+model_name = args.model
+
+tokenizer = AutoTokenizer.from_pretrained(model_name)
+model = AutoModelForTokenClassification.from_pretrained(model_name, num_labels=num_labels, id2label=id2label, label2id=label2id)
+
+# Data Sets
 
 train_dataset = raw_datasets['train'].map(tokenize_and_align_labels, batched=True)
-eval_dataset = train_dataset
-
-print(train_dataset[1])
-
-print(train_dataset)
+eval_dataset = raw_datasets['valid'].map(tokenize_and_align_labels, batched=True)
 
 # Data collator
 
@@ -116,9 +132,25 @@ data_collator = DataCollatorForTokenClassification(tokenizer, pad_to_multiple_of
 
 # Initialize our Trainer
 
+training_args = TrainingArguments(
+    output_dir="checkpoints",
+    overwrite_output_dir=True,
+    learning_rate=2e-5,
+    per_device_train_batch_size=2,
+    per_device_eval_batch_size=2,
+    num_train_epochs=args.num_train_epochs,
+    weight_decay=0.01,
+    evaluation_strategy="epoch",
+    save_strategy="epoch",
+    metric_for_best_model="eval_f1",
+    save_total_limit=1,
+    load_best_model_at_end=True,
+    report_to="none",
+    push_to_hub=False,
+)
 trainer = Trainer(
     model=model,
-    #args=training_args,
+    args=training_args,
     train_dataset=train_dataset,
     eval_dataset=eval_dataset, 
     tokenizer=tokenizer,
