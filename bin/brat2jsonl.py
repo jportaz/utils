@@ -1,17 +1,7 @@
-# Assumes:
-#  (1) continuity (no ";" in the offset field)
-#  (2) no label overlapping
-
-# Arreglar: .<SENT>»
-# Hacer "\n\n" EOS
-
 import sys
 import json
+import my_nlp
 import spacy
-from spacy.util import compile_prefix_regex
-from spacy.util import compile_infix_regex
-from spacy.util import compile_suffix_regex
-from spacy.tokenizer import Tokenizer
 import argparse
 from pprint import pprint
 
@@ -23,34 +13,13 @@ args = parser.parse_args()
 
 debug = args.debug
 
-def custom_tokenizer(nlp):
-    #infix_re = re.compile(r'''[.\,\?\:\;\...\‘\’\`\“\”\"\'~]''')
-    prefixes = list(nlp.Defaults.prefixes)
-    prefixes.append('\\-')
-    prefixes.append('\u00AD')
-    prefix_re = compile_prefix_regex(prefixes)
-    
-    infixes = list(nlp.Defaults.prefixes)
-    infixes.append('-')
-    infixes.append('\\/')
-    infixes.append('\u00AD')
-    infix_re  = compile_infix_regex(infixes)
-    
-    suffixes = list(nlp.Defaults.suffixes)
-    suffixes.append('-')
-    suffixes.append('\u00AD')
-    suffix_re = compile_suffix_regex(nlp.Defaults.suffixes)
-
-    return Tokenizer(nlp.vocab,
-                     prefix_search=prefix_re.search,
-                     suffix_search=suffix_re.search,
-                     infix_finditer=infix_re.finditer,
-                     token_match=None)
+nlp = my_nlp.load("es_core_news_sm")
 
 def skip(text):
     return text in ['', ' ', ' \n', '\n', '\n\n', '\n \n', '\n\n\n', '•', '\u00AD']
 
 # Load and parse .ann file
+
 file = open(args.ann, "r") 
 
 labels = file.readlines()
@@ -59,9 +28,6 @@ labels = [[int(start), int(end), label] for label, start, end in labels]
 labels.sort(key=lambda x : x[0])
 
 file.close()
-
-nlp = spacy.load("es_core_news_sm")
-nlp.tokenizer = custom_tokenizer(nlp)
 
 file = open(args.txt, "r")
 
